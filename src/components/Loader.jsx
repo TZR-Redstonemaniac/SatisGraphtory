@@ -1,0 +1,59 @@
+import React from "react";
+import { withStyles } from "@mui/styles";
+import * as d3 from "d3";
+
+const loading = [
+  "Loading...",
+  "Burning Coal...",
+  "Deleting Steam Keys...",
+  "Exploiting Resources...",
+  "Petting Lizard Doggo...",
+  "Adding Pipes...",
+  "Adding Mana...",
+  "Spilling Coffee...",
+  "Becoming A Goat...",
+  "Charging Batteries...",
+  "Reticulating Splines",
+];
+
+export const styles = {
+  root: {},
+};
+
+class Loader extends React.Component {
+  constructor(props) {
+    super(props);
+    const nightModeStore = window.localStorage.getItem("nightMode");
+    let night = "light";
+    if (night !== nightModeStore) {
+      night = "dark";
+    }
+    this.state = { night };
+  }
+
+  componentDidUpdate(previousProps, previousState) {
+    if (this.props.ready === true && !previousProps.ready) {
+      this.props.parentState.setState({ isReady: true }, () => {
+        console.info('App set as "Ready"');
+      });
+    }
+  }
+
+  render() {
+    const { ready, parentState, classes } = this.props;
+    return (
+      <React.Fragment>
+        <div className="loader-spinner" />
+        <div className="align-loading">
+          <div
+            className={`'loading-text align-loading-text' ${this.state.night === "dark" ? "dark-text" : ""}`}
+          >
+            {loading[Math.floor(Math.random() * loading.length)]}
+          </div>
+        </div>
+      </React.Fragment>
+    );
+  }
+}
+
+export default withStyles(styles)(Loader);

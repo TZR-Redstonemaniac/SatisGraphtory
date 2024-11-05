@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="ie=edge" http-equiv="X-UA-Compatible">
+        <meta property="og:title" content="Satisgraphtory | Factory Building Graph Simulation" />
+        <meta property="og:site_name" content="satisgraphtory.com" />
+        <meta property="og:image" content="https://i.imgur.com/DPEmxE0.png" />
+        <meta property="og:description" content="Feature-rich factory optimization and calculation tool for Satisfactory game" />
+        <meta property="og:url " content="https://satisgraphtory.com" />
+        <title>Satisgraphtory | Factory Building Graph Simulation</title>
+        <link href="../favicon.ico" rel="shortcut icon" type="image/x-icon">
+        <link href="https://fonts.googleapis.com/css?family=Kreon|Roboto+Mono" rel="stylesheet">
+        <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js"
+                integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ"
+                crossorigin="anonymous"></script>
+
+        <style>
+            @keyframes slide {
+                100% {
+                    background-position: 100% 100%;
+                }
+            }
+
+            .loader-spinner:empty {
+                position: absolute;
+                top: 50%;
+                height: 2em;
+                width: 100vw;
+                background-size: 200% 200%;
+                background-image: repeating-linear-gradient(
+                        -45deg,
+                        #FF9800,
+                        #FF9800 1em,
+                        #333 1em,
+                        #333 2em
+                );
+                animation: slide 16s linear infinite;
+            }
+
+            .loader-spinner:empty + .align-loading {
+                display: flex;
+            }
+
+            .loader-spinner + .align-loading {
+                display: none;
+            }
+
+            .align-loading {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 100%;
+                width: 100%;
+            }
+
+            .align-loading-text {
+                margin-top: 10em;
+                max-width: 50%;
+            }
+
+            .dark-bg {
+                background-color: #555555;
+            }
+            .dark-text {
+                color: white;
+            }
+        </style>
+        <link rel="shortcut icon" href="../favicon.ico">
+        <link href="vendors.css" rel="stylesheet">
+        <link href="main.css" rel="stylesheet">
+    </head>
+    <body id='body'>
+        <div class="full-div loader-spinner" id="app"></div>
+        <div class="align-loading">
+            <div class="loading-text align-loading-text" id='loading-text'>
+                <script>
+                  if (window.localStorage.getItem('nightMode') === 'dark') {
+                    document.getElementById('body').classList.add('dark-bg');
+                    document.getElementById('loading-text').classList.add('dark-text')
+                  }
+                  var loading = [
+                    'Loading...',
+                    'Burning Coal...',
+                    'Deleting Steam Keys...',
+                    'Exploiting Resources...',
+                    'Petting Lizard Doggo...',
+                    'Adding Pipes...',
+                    'Adding Mana...',
+                    'Spilling Coffee...',
+                    'Becoming A Goat...',
+                    'Charging Batteries...',
+                    'Reticulating Splines...'
+                  ];
+                  document.write(loading[Math.floor(Math.random() * loading.length)])
+                </script>
+            </div>
+        </div>
+        <!--<script type="text/javascript" src="../vendors.a2a868d34d28ee9afb93.js"></script>-->
+        <!--<script type="text/javascript" src="main.f6cb1104cb6e009e012e.js"></script>-->
+        <script type="text/javascript" src="../src/index.js"></script>
+    </body>
+</html>
