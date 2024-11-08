@@ -42,18 +42,6 @@ import globalData from "./data";
 
 const drawerWidth = 260;
 
-const palette = {
-  type: 'light',
-  primary: { main: '#FF9100' },
-  secondary: { main: '#FF3D00', contrastText: '#FAFAFA' }
-};
-
-const paletteDark = {
-  type: 'dark',
-  primary: { main: '#FF9100' },
-  secondary: { main: '#FF3D00', contrastText: '#FAFAFA' }
-};
-
 const themeName = "Pizazz Vermilion Gayal";
 
 const theme = createTheme({
@@ -74,7 +62,10 @@ const themeDark = createTheme({
   },
   palette: {
     mode: "dark",  // Updated from type: "dark"
-    primary: { main: "#FF9100" },
+	background: {
+		paper: "#424242"
+	},
+    primary: { main: "#FAFAFA" },
     secondary: { main: "#FF3D00", contrastText: "#FAFAFA" },
   },
   themeName: themeName,
@@ -102,19 +93,22 @@ const styles = {
     flexShrink: 0,
     display: "flex",
     paddingTop: 64,
+	backgroundColor: "#424242"
   },
   appBar: {
     zIndex: 1,
     minHeight: 64,
+	backgroundColor: "#FF8600"
   },
   drawerPaper: {
     width: drawerWidth,
-    position: "unset",
-    transform: "translateY(64px)",
+    position: "absoulute",
+    paddingTop: 64,
   },
   drawerTitle: {
     paddingLeft: 15,
     paddingTop: 5,
+
   },
   content: {
     display: "flex",
@@ -141,7 +135,7 @@ const styles = {
   },
   paper: {
     margin: theme.spacing * 2,
-    display: "flex",
+    display: "flex",	
   },
   button: {
     flex: "0 0 100%",
@@ -166,7 +160,8 @@ const styles = {
   hiddenFlex: {
     display: "flex",
     height: "100%",
-    justifyContent: screenLeft,
+    left: 0,
+	position: "absolute",
   },
 };
 
@@ -548,51 +543,55 @@ class App extends Component {
     const recipesByMachineClass = {};
     const machineClassPlural = {};
     this.state.recipe &&
-      this.state.recipe.recipe.forEach((recipe) => {
-        const thisList = recipesByMachineClass[recipe.machine_class.name] || [];
-        thisList.push(recipe);
-        recipesByMachineClass[recipe.machine_class.name] = thisList;
-        machineClassPlural[recipe.machine_class.name] =
-          recipe.machine_class.plural;
-      });
-    Object.keys(recipesByMachineClass).map((item) => {
+    this.state.recipe.recipe.forEach((recipe) => {
+      const thisList = recipesByMachineClass[recipe.machine_class.name] || [];
+      thisList.push(recipe);
+      recipesByMachineClass[recipe.machine_class.name] = thisList;
+      machineClassPlural[recipe.machine_class.name] = recipe.machine_class.plural;
+    });
+
+    // Sort recipes by their name
+    Object.keys(recipesByMachineClass).forEach((item) => {
       recipesByMachineClass[item].sort((a, b) => {
-        return a.item.id - b.item.id;
+        return a.name.localeCompare(b.name); // Sort by recipe name alphabetically
       });
     });
-    return Object.keys(recipesByMachineClass).map((key) => (
-      <SidebarButton
-        appObject={this}
-        label={machineClassPlural[key]}
-        key={key}
-        items={recipesByMachineClass[key]}
-      />
+
+    // Return the sorted recipes
+    return Object.keys(recipesByMachineClass).sort().map((key) => (
+        <SidebarButton
+            appObject={this}
+            label={machineClassPlural[key]}
+            key={key}
+            items={recipesByMachineClass[key]}
+        />
     ));
+
   }
 
   generateContainerList() {
     const springByClass = {};
     this.state.purity_type &&
-      this.state.spring &&
-      this.state.spring.spring.forEach((spring) => {
-        const thisList = springByClass[spring.spring_type.name] || [];
-        thisList.push(spring);
-        springByClass[spring.spring_type.name] = thisList;
-      });
+    this.state.spring &&
+    this.state.spring.spring.forEach((spring) => {
+      const thisList = springByClass[spring.spring_type.name] || [];
+      thisList.push(spring);
+      springByClass[spring.spring_type.name] = thisList;
+    });
 
     // Manually handle splitters and mergers
     springByClass["Logistic"] = this.state.machine_node.machine_node.filter(
-      (elem) => elem.machine_class.name === "Logistic",
+        (elem) => elem.machine_class.name === "Logistic",
     );
 
     return (
-      <React.Fragment>
-        <SimpleSidebarButton
-          label="Logistics"
-          appObject={this}
-          listItems={springByClass}
-        />
-      </React.Fragment>
+        <React.Fragment>
+          <SimpleSidebarButton
+              label="Logistics"
+              appObject={this}
+              listItems={springByClass}
+          />
+        </React.Fragment>
     );
   }
 
@@ -615,17 +614,17 @@ class App extends Component {
     this.generateUnlocksList();
     const springByClass = {};
     this.state.spring &&
-      this.state.spring.spring.forEach((spring) => {
-        const thisList = springByClass[spring.spring_type.name] || [];
-        thisList.push(spring);
-        springByClass[spring.spring_type.name] = thisList;
-      });
+    this.state.spring.spring.forEach((spring) => {
+      const thisList = springByClass[spring.spring_type.name] || [];
+      thisList.push(spring);
+      springByClass[spring.spring_type.name] = thisList;
+    });
     return (
-      <NestedSidebarButton
-        label="Miners"
-        listItems={springByClass}
-        appObject={this}
-      />
+        <NestedSidebarButton
+            label="Miners"
+            listItems={springByClass}
+            appObject={this}
+        />
     );
   }
 

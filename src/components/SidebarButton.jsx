@@ -124,8 +124,8 @@ class SidebarButton extends React.Component {
               src={link.item.icon}
               className={classes.itemListIcon}
             />
-            {link.quantity === 1 ? "" : link.quantity + "x "}
             {link.name}
+            {link.quantity === 1 ? "" : " x" + link.quantity}
             <div className={classes.grow} />
           </MenuItem>
         </Tooltip>

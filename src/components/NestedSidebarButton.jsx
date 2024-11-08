@@ -32,7 +32,6 @@ const styles = {
   },
   itemListIcon: {
     height: 24,
-    width: 24,
     paddingRight: 15,
   },
 };
