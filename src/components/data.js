@@ -4027,7 +4027,7 @@
     }*/
 
 let globalData;
-const url = ""
+const url = "https://raw.githubusercontent.com/TZR-Redstonemaniac/SatisGraphtory/refs/heads/gh-pages/data/Global%20Data.json"
 
 fetch(url)
     .then(response => {
