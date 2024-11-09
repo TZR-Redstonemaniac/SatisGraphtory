@@ -424,7 +424,7 @@
     },
     {
       "name": "NULL",
-      "icon": "",
+      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Generic.png",
       "hidden": false,
       "id": 67
     },
