@@ -423,6 +423,12 @@
       "id": 66
     },
     {
+      "name": "NULL",
+      "icon": "",
+      "hidden": false,
+      "id": 67
+    },
+    {
       "name": "Black Powder",
       "icon": "https://satisfactory.wiki.gg/images/3/3e/Black_Powder.png",
       "hidden": false,
