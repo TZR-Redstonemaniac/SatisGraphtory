@@ -4029,19 +4029,20 @@
 let globalData;
 const url = "https://raw.githubusercontent.com/TZR-Redstonemaniac/SatisGraphtory/refs/heads/gh-pages/data/Global%20Data.json"
 
-fetch(url)
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('Network response was not ok');
-      }
-      return response.json();
-    })
-    .then(data => {
-      // Store the JSON data in a variable
-      globalData = data;
-    })
-    .catch(error => {
-      console.error('There was a problem with the fetch operation:', error);
-    });
+async function fetchData() {
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            console.error('Network response was not ok');
+        }
+        globalData = await response.json();
+        console.log(globalData); // Log or use the JSON data as needed
+    } catch (error) {
+        console.error('There was a problem with the fetch operation:', error);
+    }
+}
+
+// Call the function and wait for data to be fetched before continuing
+await fetchData();
 
 export default globalData;

@@ -423,12 +423,6 @@
       "id": 66
     },
     {
-      "name": "Coal",
-      "icon": "https://satisfactory.wiki.gg/images/a/a7/Coal.png",
-      "hidden": false,
-      "id": 67
-    },
-    {
       "name": "Black Powder",
       "icon": "https://satisfactory.wiki.gg/images/3/3e/Black_Powder.png",
       "hidden": false,
@@ -1927,7 +1921,7 @@
           "quantity": 3.0
         },
         {
-          "item_id": 67,
+          "item_id": 3,
           "quantity": 3.0
         }
       ],
@@ -1946,7 +1940,7 @@
           "quantity": 2.0
         },
         {
-          "item_id": 67,
+          "item_id": 3,
           "quantity": 2.0
         }
       ],
@@ -2686,7 +2680,7 @@
         }
       ],
       "machine_class_id": 0,
-      "item_id": 67,
+      "item_id": 3,
       "time": 8,
       "quantity": 6.0,
       "hidden": false,
@@ -2696,7 +2690,7 @@
       "name": "Black Powder",
       "inputs": [
         {
-          "item_id": 67,
+          "item_id": 3,
           "quantity": 1.0
         },
         {
@@ -2818,7 +2812,7 @@
       "name": "Compacted Coal",
       "inputs": [
         {
-          "item_id": 67,
+          "item_id": 3,
           "quantity": 5.0
         },
         {
@@ -3057,7 +3051,7 @@
           "quantity": 25.0
         },
         {
-          "item_id": 67,
+          "item_id": 3,
           "quantity": 12.0
         }
       ],
