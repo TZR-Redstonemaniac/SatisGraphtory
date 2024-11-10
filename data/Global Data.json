@@ -570,7 +570,7 @@
       "name": "Nitrogen Gas",
       "icon": "https://satisfactory.wiki.gg/images/2/27/Nitrogen_Gas.png",
       "hidden": false,
-      "id": 90
+      "id": 91
     },
     {
       "name": "Alien DNA Capsule",
@@ -5081,7 +5081,7 @@
         }
       ],
       "machine_class_id": 13,
-      "item_id": 90,
+      "item_id": 91,
       "time": 6,
       "quantity": 12.0,
       "hidden": false,
@@ -5100,7 +5100,7 @@
         }
       ],
       "machine_class_id": 13,
-      "item_id": 90,
+      "item_id": 91,
       "time": 6,
       "quantity": 12.0,
       "hidden": false,

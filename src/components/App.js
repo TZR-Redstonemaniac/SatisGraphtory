@@ -278,7 +278,7 @@ class App extends Component {
                       " in " +
                       rowKey +
                       " within " +
-                      key,
+                      key
                   );
                 }
               });
