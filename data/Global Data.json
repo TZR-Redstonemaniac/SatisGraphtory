@@ -39,7 +39,7 @@
       "id": 2
     },
     {
-      "name": "Coal Ore",
+      "name": "Coal",
       "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Coal.png",
       "hidden": false,
       "id": 3
@@ -363,7 +363,7 @@
       "id": 56
     },
     {
-      "name": "Aluminum Scraps",
+      "name": "Aluminum Scrap",
       "icon": "https://satisfactory.wiki.gg/images/4/4b/Aluminum_Scrap.png",
       "hidden": false,
       "id": 57
@@ -553,6 +553,282 @@
       "icon": "https://satisfactory.wiki.gg/images/a/ac/Modular_Engine.png",
       "hidden": false,
       "id": 88
+    },
+    {
+      "name": "Alien Protein",
+      "icon": "https://satisfactory.wiki.gg/images/6/6f/Alien_Protein.png",
+      "hidden": false,
+      "id": 89
+    },
+    {
+      "name": "Water",
+      "icon": "https://satisfactory.wiki.gg/images/9/9d/Water.png",
+      "hidden": false,
+      "id": 90
+    },
+    {
+      "name": "Nitrogen Gas",
+      "icon": "https://satisfactory.wiki.gg/images/2/27/Nitrogen_Gas.png",
+      "hidden": false,
+      "id": 90
+    },
+    {
+      "name": "Alien DNA Capsule",
+      "icon": "",
+      "hidden": false,
+      "id": 92
+    },
+    {
+      "name": "Cooling System",
+      "icon": "",
+      "hidden": false,
+      "id": 93
+    },
+    {
+      "name": "Diamonds",
+      "icon": "",
+      "hidden": false,
+      "id": 94
+    },
+    {
+      "name": "Fused Modular Frame",
+      "icon": "",
+      "hidden": false,
+      "id": 95
+    },
+    {
+      "name": "Liquid Biofuel",
+      "icon": "",
+      "hidden": false,
+      "id": 96
+    },
+    {
+      "name": "Nitric Acid",
+      "icon": "",
+      "hidden": false,
+      "id": 97
+    },
+    {
+      "name": "Pressure Conversion Cube",
+      "icon": "",
+      "hidden": false,
+      "id": 98
+    },
+    {
+      "name": "Thermal Propulsion Rocket",
+      "icon": "",
+      "hidden": false,
+      "id": 99
+    },
+    {
+      "name": "Nuclear Pasta",
+      "icon": "",
+      "hidden": false,
+      "id": 100
+    },
+    {
+      "name": "Dark Matter Residue",
+      "icon": "",
+      "hidden": false,
+      "id": 101
+    },
+    {
+      "name": "Ficsite Ingot",
+      "icon": "",
+      "hidden": false,
+      "id": 102
+    },
+    {
+      "name": "Ficsite Trigon",
+      "icon": "",
+      "hidden": false,
+      "id": 103
+    },
+    {
+      "name": "Limestone",
+      "icon": "",
+      "hidden": false,
+      "id": 104
+    },
+    {
+      "name": "Time Crystal",
+      "icon": "",
+      "hidden": false,
+      "id": 105
+    },
+    {
+      "name": "Biochemical Sculptor",
+      "icon": "",
+      "hidden": false,
+      "id": 106
+    },
+    {
+      "name": "Dark Matter Crystal",
+      "icon": "",
+      "hidden": false,
+      "id": 107
+    },
+    {
+      "name": "Singularity Cell",
+      "icon": "",
+      "hidden": false,
+      "id": 108
+    },
+    {
+      "name": "Ballistic Warp Drive",
+      "icon": "",
+      "hidden": false,
+      "id": 109
+    },
+    {
+      "name": "Excited Photonic Matter",
+      "icon": "",
+      "hidden": false,
+      "id": 110
+    },
+    {
+      "name": "Blue Power Slug",
+      "icon": "",
+      "hidden": false,
+      "id": 111
+    },
+    {
+      "name": "Yellow Power Slug",
+      "icon": "",
+      "hidden": false,
+      "id": 112
+    },
+    {
+      "name": "Purple Power Slug",
+      "icon": "",
+      "hidden": false,
+      "id": 113
+    },
+    {
+      "name": "Power Shard",
+      "icon": "",
+      "hidden": false,
+      "id": 114
+    },
+    {
+      "name": "Leaves",
+      "icon": "",
+      "hidden": false,
+      "id": 115
+    },
+    {
+      "name": "Mycelia",
+      "icon": "",
+      "hidden": false,
+      "id": 116
+    },
+    {
+      "name": "Wood",
+      "icon": "",
+      "hidden": false,
+      "id": 117
+    },
+    {
+      "name": "Fabric",
+      "icon": "",
+      "hidden": false,
+      "id": 118
+    },
+    {
+      "name": "Gas Filter",
+      "icon": "",
+      "hidden": false,
+      "id": 119
+    },
+    {
+      "name": "Iodine-Infused Filter",
+      "icon": "",
+      "hidden": false,
+      "id": 120
+    },
+    {
+      "name": "Hatcher Remains",
+      "icon": "",
+      "hidden": false,
+      "id": 121
+    },
+    {
+      "name": "Hog Remains",
+      "icon": "",
+      "hidden": false,
+      "id": 122
+    },
+    {
+      "name": "SAM",
+      "icon": "",
+      "hidden": false,
+      "id": 123
+    },
+    {
+      "name": "Spitter Remains",
+      "icon": "",
+      "hidden": false,
+      "id": 124
+    },
+    {
+      "name": "Stinger Remains",
+      "icon": "",
+      "hidden": false,
+      "id": 125
+    },
+    {
+      "name": "Packaged Alumina Solution",
+      "icon": "",
+      "hidden": false,
+      "id": 126
+    },
+    {
+      "name": "Packaged Fuel",
+      "icon": "",
+      "hidden": false,
+      "id": 127
+    },
+    {
+      "name": "Packaged Liquid Biofuel",
+      "icon": "",
+      "hidden": false,
+      "id": 128
+    },
+    {
+      "name": "Packaged Nitric Acid",
+      "icon": "",
+      "hidden": false,
+      "id": 129
+    },
+    {
+      "name": "Packaged Nitrogen Gas",
+      "icon": "",
+      "hidden": false,
+      "id": 130
+    },
+    {
+      "name": "Packaged Oil",
+      "icon": "",
+      "hidden": false,
+      "id": 131
+    },
+    {
+      "name": "Packaged Sulfuric Acid",
+      "icon": "",
+      "hidden": false,
+      "id": 132
+    },
+    {
+      "name": "Packaged Turbofuel",
+      "icon": "",
+      "hidden": false,
+      "id": 133
+    },
+    {
+      "name": "Packaged Water",
+      "icon": "",
+      "hidden": false,
+      "id": 134
     }
   ],
   "node_type": [
@@ -785,6 +1061,30 @@
       "node_type_id": 0,
       "hidden": false,
       "id": 11
+    },
+    {
+      "name": "Particle Accelerator",
+      "plural": "Particle Accelerators",
+      "icon": "https://satisfactory.wiki.gg/images/6/68/Particle_Accelerator.png",
+      "node_type_id": 0,
+      "hidden": false,
+      "id": 12
+    },
+    {
+      "name": "Converter",
+      "plural": "Converters",
+      "icon": "https://satisfactory.wiki.gg/images/3/35/Converter.png",
+      "node_type_id": 0,
+      "hidden": false,
+      "id": 13
+    },
+    {
+      "name": "Packager",
+      "plural": "Packagers",
+      "icon": "https://satisfactory.wiki.gg/images/c/c1/Packager.png",
+      "node_type_id": 0,
+      "hidden": false,
+      "id": 14
     }
   ],
   "machine_node": [
@@ -869,7 +1169,7 @@
       "id": 6
     },
     {
-      "name": "Smelter Mk.1",
+      "name": "Smelter",
       "machine_version_id": 1,
       "machine_class_id": 5,
       "speed": 100,
@@ -881,19 +1181,7 @@
       "id": 7
     },
     {
-      "name": "Smelter Mk.2",
-      "machine_version_id": 2,
-      "machine_class_id": 5,
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Smelter.png",
-      "speed": 200,
-      "power": 8,
-      "hidden": true,
-      "input_slots": 1,
-      "output_slots": 1,
-      "id": 8
-    },
-    {
-      "name": "Constructor Mk.1",
+      "name": "Constructor",
       "machine_version_id": 1,
       "machine_class_id": 0,
       "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Constructor.png",
@@ -903,18 +1191,6 @@
       "output_slots": 1,
       "hidden": false,
       "id": 9
-    },
-    {
-      "name": "Constructor Mk.2",
-      "machine_version_id": 2,
-      "machine_class_id": 0,
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Constructor.png",
-      "speed": 200,
-      "power": 8,
-      "hidden": true,
-      "input_slots": 1,
-      "output_slots": 1,
-      "id": 10
     },
     {
       "name": "Oil Refinery",
@@ -929,7 +1205,7 @@
       "id": 11
     },
     {
-      "name": "Assembler Mk.1",
+      "name": "Assembler",
       "machine_version_id": 1,
       "machine_class_id": 3,
       "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Assembler.png",
@@ -941,19 +1217,7 @@
       "id": 12
     },
     {
-      "name": "Assembler Mk.2",
-      "machine_version_id": 2,
-      "machine_class_id": 3,
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Assembler.png",
-      "speed": 100,
-      "hidden": true,
-      "power": 30,
-      "input_slots": 2,
-      "output_slots": 1,
-      "id": 13
-    },
-    {
-      "name": "Manufacturer Mk.1",
+      "name": "Manufacturer",
       "machine_version_id": 1,
       "machine_class_id": 7,
       "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Manufacturer.png",
@@ -963,18 +1227,6 @@
       "input_slots": 4,
       "output_slots": 1,
       "id": 14
-    },
-    {
-      "name": "Manufacturer Mk.2",
-      "machine_version_id": 2,
-      "machine_class_id": 7,
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Manufacturer.png",
-      "speed": 200,
-      "power": 110,
-      "hidden": true,
-      "input_slots": 4,
-      "output_slots": 1,
-      "id": 15
     },
     {
       "name": "Coal Generator",
@@ -1013,7 +1265,7 @@
       "id": 18
     },
     {
-      "name": "Foundry Mk.1",
+      "name": "Foundry",
       "machine_version_id": 1,
       "machine_class_id": 10,
       "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Foundry_MK1.png",
@@ -1025,16 +1277,52 @@
       "id": 19
     },
     {
-      "name": "Foundry Mk.2",
-      "machine_version_id": 2,
-      "machine_class_id": 10,
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Foundry_MK2.png",
-      "speed": 200,
-      "power": 38,
-      "hidden": true,
+      "name": "Particle Accelerator",
+      "machine_version_id": 1,
+      "machine_class_id": 12,
+      "icon": "https://satisfactory.wiki.gg/images/6/68/Particle_Accelerator.png",
+      "speed": 100,
+      "power": 1500,
+      "hidden": false,
       "input_slots": 2,
       "output_slots": 1,
-      "id": 20
+      "id": 21
+    },
+    {
+      "name": "Blender",
+      "machine_version_id": 1,
+      "machine_class_id": 11,
+      "icon": "https://satisfactory.wiki.gg/images/3/39/Blender.png",
+      "speed": 100,
+      "power": 75,
+      "hidden": false,
+      "input_slots": 2,
+      "output_slots": 1,
+      "id": 22
+    },
+    {
+      "name": "Converter",
+      "machine_version_id": 1,
+      "machine_class_id": 11,
+      "icon": "https://satisfactory.wiki.gg/images/3/35/Converter.png",
+      "speed": 100,
+      "power": 75,
+      "hidden": false,
+      "input_slots": 2,
+      "output_slots": 1,
+      "id": 22
+    },
+    {
+      "name": "Packager",
+      "machine_version_id": 1,
+      "machine_class_id": 14,
+      "icon": "https://satisfactory.wiki.gg/images/c/c1/Packager.png",
+      "speed": 100,
+      "power": 10,
+      "hidden": false,
+      "input_slots": 1,
+      "output_slots": 1,
+      "id": 23
     }
   ],
   "spring_type": [
@@ -1477,8 +1765,29 @@
       "id": 11
     },
     {
-      "machine_class_id": 8,
-      "spring_type_id": 1,
+      "item_id": 123,
+      "machine_class_id": 1,
+      "spring_type_id": 0,
+      "purities": [
+        {
+          "name": "Impure",
+          "quantity": 30,
+          "hidden": false,
+          "id": 0
+        },
+        {
+          "name": "Normal",
+          "quantity": 60,
+          "hidden": false,
+          "id": 1
+        },
+        {
+          "name": "Pure",
+          "quantity": 120,
+          "hidden": false,
+          "id": 2
+        }
+      ],
       "hidden": false,
       "id": 12
     }
@@ -4043,6 +4352,1608 @@
       "quantity": 1.0,
       "hidden": false,
       "id": 132
+    },
+    {
+      "name": "Alien DNA Capsule",
+      "inputs": [
+        {
+          "item_id": 89,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 92,
+      "time": 6,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 133
+    },
+    {
+      "name": "Biomass (Alien Protein)",
+      "inputs": [
+        {
+          "item_id": 89,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 50,
+      "time": 4,
+      "quantity": 100.0,
+      "hidden": false,
+      "id": 134
+    },
+    {
+      "name": "Cooling Device",
+      "inputs": [
+        {
+          "item_id": 43,
+          "quantity": 4.0
+        },
+        {
+          "item_id": 24,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 24.0
+        }
+      ],
+      "machine_class_id": 11,
+      "item_id": 93,
+      "time": 24,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 135
+    },
+    {
+      "name": "Cooling System",
+      "inputs": [
+        {
+          "item_id": 43,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 34,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 5.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 25.0
+        }
+      ],
+      "machine_class_id": 11,
+      "item_id": 93,
+      "time": 10,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 136
+    },
+    {
+      "name": "Diamonds",
+      "inputs": [
+        {
+          "item_id": 3,
+          "quantity": 20.0
+        }
+      ],
+      "machine_class_id": 12,
+      "item_id": 94,
+      "time": 2,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 137
+    },
+    {
+      "name": "Fused Modular Frame",
+      "inputs": [
+        {
+          "item_id": 23,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 62,
+          "quantity": 50.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 25.0
+        }
+      ],
+      "machine_class_id": 11,
+      "item_id": 95,
+      "time": 40,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 138
+    },
+    {
+      "name": "Liquid Biofuel",
+      "inputs": [
+        {
+          "item_id": 51,
+          "quantity": 6.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 3.0
+        }
+      ],
+      "machine_class_id": 4,
+      "item_id": 96,
+      "time": 4,
+      "quantity": 4.0,
+      "hidden": false,
+      "id": 139
+    },
+    {
+      "name": "Nitric Acid",
+      "inputs": [
+        {
+          "item_id": 90,
+          "quantity": 12.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 3.0
+        },
+        {
+          "item_id": 6,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 11,
+      "item_id": 97,
+      "time": 6,
+      "quantity": 3.0,
+      "hidden": false,
+      "id": 140
+    },
+    {
+      "name": "OC Supercomputer",
+      "inputs": [
+        {
+          "item_id": 44,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 93,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 3,
+      "item_id": 38,
+      "time": 20,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 141
+    },
+    {
+      "name": "Oil-Based Diamonds",
+      "inputs": [
+        {
+          "item_id": 25,
+          "quantity": 10.0
+        }
+      ],
+      "machine_class_id": 12,
+      "item_id": 94,
+      "time": 3,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 142
+    },
+    {
+      "name": "Petroleum Diamonds",
+      "inputs": [
+        {
+          "item_id": 59,
+          "quantity": 24.0
+        }
+      ],
+      "machine_class_id": 12,
+      "item_id": 94,
+      "time": 2,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 143
+    },
+    {
+      "name": "Pressure Conversion Cube",
+      "inputs": [
+        {
+          "item_id": 95,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 44,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 3,
+      "item_id": 98,
+      "time": 60,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 144
+    },
+    {
+      "name": "Pure Aluminum Ingot",
+      "inputs": [
+        {
+          "item_id": 57,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 5,
+      "item_id": 41,
+      "time": 2,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 145
+    },
+    {
+      "name": "Pure Caterium Ingot",
+      "inputs": [
+        {
+          "item_id": 15,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 4,
+      "item_id": 16,
+      "time": 5,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 146
+    },
+    {
+      "name": "Pure Copper Ingot",
+      "inputs": [
+        {
+          "item_id": 0,
+          "quantity": 6.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 4.0
+        }
+      ],
+      "machine_class_id": 4,
+      "item_id": 5,
+      "time": 24,
+      "quantity": 15.0,
+      "hidden": false,
+      "id": 147
+    },
+    {
+      "name": "Pure Iron Ingot",
+      "inputs": [
+        {
+          "item_id": 1,
+          "quantity": 7.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 4.0
+        }
+      ],
+      "machine_class_id": 4,
+      "item_id": 4,
+      "time": 12,
+      "quantity": 13.0,
+      "hidden": false,
+      "id": 148
+    },
+    {
+      "name": "Pure Quartz Crystal",
+      "inputs": [
+        {
+          "item_id": 26,
+          "quantity": 9.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 5.0
+        }
+      ],
+      "machine_class_id": 4,
+      "item_id": 55,
+      "time": 8,
+      "quantity": 7.0,
+      "hidden": false,
+      "id": 149
+    },
+    {
+      "name": "Sloppy Alumina",
+      "inputs": [
+        {
+          "item_id": 28,
+          "quantity": 10.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 10.0
+        }
+      ],
+      "machine_class_id": 4,
+      "item_id": 61,
+      "time": 3,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 150
+    },
+    {
+      "name": "Steamed Copper Sheet",
+      "inputs": [
+        {
+          "item_id": 5,
+          "quantity": 3.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 3.0
+        }
+      ],
+      "machine_class_id": 4,
+      "item_id": 58,
+      "time": 8,
+      "quantity": 3.0,
+      "hidden": false,
+      "id": 151
+    },
+    {
+      "name": "Sulfuric Acid",
+      "inputs": [
+        {
+          "item_id": 27,
+          "quantity": 5.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 5.0
+        }
+      ],
+      "machine_class_id": 4,
+      "item_id": 60,
+      "time": 6,
+      "quantity": 5.0,
+      "hidden": false,
+      "id": 152
+    },
+    {
+      "name": "Thermal Propulsion Rocket",
+      "inputs": [
+        {
+          "item_id": 88,
+          "quantity": 5.0
+        },
+        {
+          "item_id": 45,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 93,
+          "quantity": 6.0
+        },
+        {
+          "item_id": 95,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 7,
+      "item_id": 99,
+      "time": 120,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 153
+    },
+    {
+      "name": "Turbo Motor",
+      "inputs": [
+        {
+          "item_id": 93,
+          "quantity": 4.0
+        },
+        {
+          "item_id": 44,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 24,
+          "quantity": 4.0
+        },
+        {
+          "item_id": 34,
+          "quantity": 24.0
+        }
+      ],
+      "machine_class_id": 7,
+      "item_id": 45,
+      "time": 32,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 154
+    },
+    {
+      "name": "Heat-Fused Frame",
+      "inputs": [
+        {
+          "item_id": 23,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 41,
+          "quantity": 50.0
+        },
+        {
+          "item_id": 97,
+          "quantity": 8.0
+        },
+        {
+          "item_id": 33,
+          "quantity": 10.0
+        }
+      ],
+      "machine_class_id": 11,
+      "item_id": 95,
+      "time": 20,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 155
+    },
+    {
+      "name": "Nuclear Pasta",
+      "inputs": [
+        {
+          "item_id": 70,
+          "quantity": 200.0
+        },
+        {
+          "item_id": 98,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 12,
+      "item_id": 100,
+      "time": 120,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 156
+    },
+    {
+      "name": "Bauxite (Caterium)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 15,
+          "quantity": 15.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 28,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 157
+    },
+    {
+      "name": "Bauxite (Copper)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 0,
+          "quantity": 18.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 28,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 158
+    },
+    {
+      "name": "Caterium Ore (Copper)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 0,
+          "quantity": 15.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 15,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 159
+    },
+    {
+      "name": "Caterium Ore (Quartz)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 26,
+          "quantity": 12.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 15,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 160
+    },
+    {
+      "name": "Coal (Iron)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 1,
+          "quantity": 18.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 3,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 161
+    },
+    {
+      "name": "Copper Ore (Quartz)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 26,
+          "quantity": 10.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 0,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 162
+    },
+    {
+      "name": "Copper Ore (Sulfur)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 27,
+          "quantity": 12.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 0,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 163
+    },
+    {
+      "name": "Dark Matter Residue",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 5.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 101,
+      "time": 6,
+      "quantity": 10.0,
+      "hidden": false,
+      "id": 164
+    },
+    {
+      "name": "Ficsite Ingot (Aluminum)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 41,
+          "quantity": 4.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 102,
+      "time": 2,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 165
+    },
+    {
+      "name": "Ficsite Ingot (Caterium)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 3.0
+        },
+        {
+          "item_id": 16,
+          "quantity": 4.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 102,
+      "time": 4,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 166
+    },
+    {
+      "name": "Ficsite Ingot (Iron)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 4.0
+        },
+        {
+          "item_id": 4,
+          "quantity": 24.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 102,
+      "time": 6,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 167
+    },
+    {
+      "name": "Ficsite Trigon",
+      "inputs": [
+        {
+          "item_id": 102,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 103,
+      "time": 6,
+      "quantity": 3.0,
+      "hidden": false,
+      "id": 168
+    },
+    {
+      "name": "Limestone (Sulfur)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 27,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 104,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 169
+    },
+    {
+      "name": "Nitrogen Gas (Bauxite)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 28,
+          "quantity": 10.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 90,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 170
+    },
+    {
+      "name": "Nitrogen Gas (Caterium)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 15,
+          "quantity": 12.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 90,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 171
+    },
+    {
+      "name": "Pink Diamonds",
+      "inputs": [
+        {
+          "item_id": 3,
+          "quantity": 8.0
+        },
+        {
+          "item_id": 55,
+          "quantity": 3.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 94,
+      "time": 4,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 172
+    },
+    {
+      "name": "Raw Quartz (Bauxite)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 28,
+          "quantity": 10.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 26,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 173
+    },
+    {
+      "name": "Raw Quartz (Coal)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 3,
+          "quantity": 24.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 26,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 174
+    },
+    {
+      "name": "Rubber Concrete",
+      "inputs": [
+        {
+          "item_id": 104,
+          "quantity": 10.0
+        },
+        {
+          "item_id": 34,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 3,
+      "item_id": 11,
+      "time": 6,
+      "quantity": 9.0,
+      "hidden": false,
+      "id": 175
+    },
+    {
+      "name": "Sulfur (Coal)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 3,
+          "quantity": 20.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 27,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 176
+    },
+    {
+      "name": "Sulfur (Iron)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 1,
+          "quantity": 30.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 27,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 177
+    },
+    {
+      "name": "Time Crystal",
+      "inputs": [
+        {
+          "item_id": 94,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 105,
+      "time": 10,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 178
+    },
+    {
+      "name": "Uranium Ore (Bauxite)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 28,
+          "quantity": 48.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 31,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 179
+    },
+    {
+      "name": "Wet Concrete",
+      "inputs": [
+        {
+          "item_id": 104,
+          "quantity": 6.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 5.0
+        }
+      ],
+      "machine_class_id": 4,
+      "item_id": 11,
+      "time": 3,
+      "quantity": 4.0,
+      "hidden": false,
+      "id": 180
+    },
+    {
+      "name": "Basic Iron Ingot",
+      "inputs": [
+        {
+          "item_id": 1,
+          "quantity": 5.0
+        },
+        {
+          "item_id": 104,
+          "quantity": 8.0
+        }
+      ],
+      "machine_class_id": 10,
+      "item_id": 4,
+      "time": 12,
+      "quantity": 10.0,
+      "hidden": false,
+      "id": 181
+    },
+    {
+      "name": "Biochemical Sculptor",
+      "inputs": [
+        {
+          "item_id": 86,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 103,
+          "quantity": 80.0
+        },
+        {
+          "item_id": 90,
+          "quantity": 20.0
+        }
+      ],
+      "machine_class_id": 11,
+      "item_id": 106,
+      "time": 120,
+      "quantity": 4.0,
+      "hidden": false,
+      "id": 182
+    },
+    {
+      "name": "Cloudy Diamonds",
+      "inputs": [
+        {
+          "item_id": 3,
+          "quantity": 12.0
+        },
+        {
+          "item_id": 104,
+          "quantity": 24.0
+        }
+      ],
+      "machine_class_id": 12,
+      "item_id": 94,
+      "time": 3,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 183
+    },
+    {
+      "name": "Coal (Limestone)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 104,
+          "quantity": 36.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 3,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 184
+    },
+    {
+      "name": "Dark Matter Crystal",
+      "inputs": [
+        {
+          "item_id": 94,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 101,
+          "quantity": 5.0
+        }
+      ],
+      "machine_class_id": 12,
+      "item_id": 107,
+      "time": 2,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 185
+    },
+    {
+      "name": "Dark Matter Crystallization",
+      "inputs": [
+        {
+          "item_id": 101,
+          "quantity": 10.0
+        }
+      ],
+      "machine_class_id": 12,
+      "item_id": 107,
+      "time": 3,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 186
+    },
+    {
+      "name": "Dark Matter Trap",
+      "inputs": [
+        {
+          "item_id": 105,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 101,
+          "quantity": 5.0
+        }
+      ],
+      "machine_class_id": 12,
+      "item_id": 107,
+      "time": 2,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 187
+    },
+    {
+      "name": "Fine Concrete",
+      "inputs": [
+        {
+          "item_id": 30,
+          "quantity": 3.0
+        },
+        {
+          "item_id": 104,
+          "quantity": 12.0
+        }
+      ],
+      "machine_class_id": 3,
+      "item_id": 11,
+      "time": 12,
+      "quantity": 10.0,
+      "hidden": false,
+      "id": 188
+    },
+    {
+      "name": "Iron Ore (Limestone)",
+      "inputs": [
+        {
+          "item_id": 52,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 104,
+          "quantity": 24.0
+        }
+      ],
+      "machine_class_id": 13,
+      "item_id": 1,
+      "time": 6,
+      "quantity": 12.0,
+      "hidden": false,
+      "id": 189
+    },
+    {
+      "name": "Singularity Cell",
+      "inputs": [
+        {
+          "item_id": 100,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 107,
+          "quantity": 20.0
+        },
+        {
+          "item_id": 6,
+          "quantity": 100.0
+        },
+        {
+          "item_id": 11,
+          "quantity": 200.0
+        }
+      ],
+      "machine_class_id": 7,
+      "item_id": 108,
+      "time": 60,
+      "quantity": 10.0,
+      "hidden": false,
+      "id": 190
+    },
+    {
+      "name": "Ballistic Warp Drive",
+      "inputs": [
+        {
+          "item_id": 99,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 108,
+          "quantity": 5.0
+        },
+        {
+          "item_id": 48,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 107,
+          "quantity": 40.0
+        }
+      ],
+      "machine_class_id": 7,
+      "item_id": 109,
+      "time": 60,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 191
+    },
+    {
+      "name": "Ballistic Warp Drive",
+      "inputs": [],
+      "machine_class_id": 13,
+      "item_id": 110,
+      "time": 3,
+      "quantity": 10.0,
+      "hidden": false,
+      "id": 192
+    },
+    {
+      "name": "Power Shard (1)",
+      "inputs": [
+        {
+          "item_id": 111,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 114,
+      "time": 8,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 193
+    },
+    {
+      "name": "Power Shard (2)",
+      "inputs": [
+        {
+          "item_id": 112,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 114,
+      "time": 12,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 194
+    },
+    {
+      "name": "Power Shard (5)",
+      "inputs": [
+        {
+          "item_id": 113,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 114,
+      "time": 24,
+      "quantity": 5.0,
+      "hidden": false,
+      "id": 195
+    },
+    {
+      "name": "Biomass (Leaves)",
+      "inputs": [
+        {
+          "item_id": 115,
+          "quantity": 10.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 50,
+      "time": 5,
+      "quantity": 5.0,
+      "hidden": false,
+      "id": 196
+    },
+    {
+      "name": "Biomass (Mycelia)",
+      "inputs": [
+        {
+          "item_id": 116,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 50,
+      "time": 4,
+      "quantity": 10.0,
+      "hidden": false,
+      "id": 197
+    },
+    {
+      "name": "Biomass (Wood)",
+      "inputs": [
+        {
+          "item_id": 117,
+          "quantity": 4.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 50,
+      "time": 4,
+      "quantity": 20.0,
+      "hidden": false,
+      "id": 198
+    },
+    {
+      "name": "Charcoal",
+      "inputs": [
+        {
+          "item_id": 117,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 3,
+      "time": 4,
+      "quantity": 10.0,
+      "hidden": false,
+      "id": 199
+    },
+    {
+      "name": "Fabric",
+      "inputs": [
+        {
+          "item_id": 116,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 50,
+          "quantity": 5.0
+        }
+      ],
+      "machine_class_id": 3,
+      "item_id": 118,
+      "time": 4,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 200
+    },
+    {
+      "name": "Gas Filter",
+      "inputs": [
+        {
+          "item_id": 118,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 3,
+          "quantity": 4.0
+        },
+        {
+          "item_id": 6,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 7,
+      "item_id": 119,
+      "time": 8,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 201
+    },
+    {
+      "name": "Iodine-Infused Filter",
+      "inputs": [
+        {
+          "item_id": 119,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 17,
+          "quantity": 8.0
+        },
+        {
+          "item_id": 62,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 7,
+      "item_id": 120,
+      "time": 16,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 202
+    },
+    {
+      "name": "Hatcher Protein",
+      "inputs": [
+        {
+          "item_id": 121,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 89,
+      "time": 3,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 203
+    },
+    {
+      "name": "Hog Protein",
+      "inputs": [
+        {
+          "item_id": 122,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 89,
+      "time": 3,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 204
+    },
+    {
+      "name": "Packaged Alumina Solution",
+      "inputs": [
+        {
+          "item_id": 61,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 69,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 14,
+      "item_id": 126,
+      "time": 1,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 205
+    },
+    {
+      "name": "Packaged Fuel",
+      "inputs": [
+        {
+          "item_id": 33,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 69,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 14,
+      "item_id": 127,
+      "time": 3,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 206
+    },
+    {
+      "name": "Packaged Liquid Biofuel",
+      "inputs": [
+        {
+          "item_id": 96,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 69,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 14,
+      "item_id": 128,
+      "time": 3,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 207
+    },
+    {
+      "name": "Packaged Nitric Acid",
+      "inputs": [
+        {
+          "item_id": 97,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 72,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 14,
+      "item_id": 129,
+      "time": 2,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 208
+    },
+    {
+      "name": "Packaged Nitrogen Gas",
+      "inputs": [
+        {
+          "item_id": 90,
+          "quantity": 4.0
+        },
+        {
+          "item_id": 72,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 14,
+      "item_id": 130,
+      "time": 1,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 209
+    },
+    {
+      "name": "Packaged Oil",
+      "inputs": [
+        {
+          "item_id": 25,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 69,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 14,
+      "item_id": 131,
+      "time": 4,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 210
+    },
+    {
+      "name": "Packaged Sulfuric Acid",
+      "inputs": [
+        {
+          "item_id": 60,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 69,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 14,
+      "item_id": 132,
+      "time": 3,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 211
+    },
+    {
+      "name": "Packaged Turbofuel",
+      "inputs": [
+        {
+          "item_id": 83,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 69,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 14,
+      "item_id": 133,
+      "time": 6,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 212
+    },
+    {
+      "name": "Packaged Water",
+      "inputs": [
+        {
+          "item_id": 90,
+          "quantity": 2.0
+        },
+        {
+          "item_id": 69,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 14,
+      "item_id": 134,
+      "time": 2,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 213
+    },
+    {
+      "name": "Spitter Protein",
+      "inputs": [
+        {
+          "item_id": 124,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 89,
+      "time": 3,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 214
+    },
+    {
+      "name": "Stinger Protein",
+      "inputs": [
+        {
+          "item_id": 125,
+          "quantity": 1.0
+        }
+      ],
+      "machine_class_id": 0,
+      "item_id": 89,
+      "time": 3,
+      "quantity": 1.0,
+      "hidden": false,
+      "id": 215
+    },
+    {
+      "name": "Turbo Diamonds",
+      "inputs": [
+        {
+          "item_id": 3,
+          "quantity": 30.0
+        },
+        {
+          "item_id": 133,
+          "quantity": 2.0
+        }
+      ],
+      "machine_class_id": 12,
+      "item_id": 94,
+      "time": 3,
+      "quantity": 3.0,
+      "hidden": false,
+      "id": 216
+    },
+    {
+      "name": "Turbo Pressure Motor",
+      "inputs": [
+        {
+          "item_id": 24,
+          "quantity": 4.0
+        },
+        {
+          "item_id": 98,
+          "quantity": 1.0
+        },
+        {
+          "item_id": 130,
+          "quantity": 24.0
+        },
+        {
+          "item_id": 22,
+          "quantity": 8.0
+        }
+      ],
+      "machine_class_id": 7,
+      "item_id": 45,
+      "time": 32,
+      "quantity": 2.0,
+      "hidden": false,
+      "id": 217
     }
   ]
 }
