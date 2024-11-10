@@ -21,812 +21,812 @@
   ],
   "item": [
     {
-      "name": "Copper Ore",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Copper_Ore.png",
+      "name": "Copper",
+      "icon": "icons/items/Copper_Ore.png",
       "hidden": false,
       "id": 0
     },
     {
-      "name": "Iron Ore",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Iron_Ore.png",
+      "name": "Iron",
+      "icon": "icons/items/Iron_Ore.png",
       "hidden": false,
       "id": 1
     },
     {
-      "name": "Limestone Ore",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Limestone.png",
+      "name": "Limestone",
+      "icon": "icons/items/Limestone.png",
       "hidden": false,
       "id": 2
     },
     {
       "name": "Coal",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Coal.png",
+      "icon": "icons/items/Coal.png",
       "hidden": false,
       "id": 3
     },
     {
       "name": "Iron Ingot",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Iron_Ingot.png",
+      "icon": "icons/items/Iron_Ingot.png",
       "hidden": false,
       "id": 4
     },
     {
       "name": "Copper Ingot",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Copper_Ingot.png",
+      "icon": "icons/items/Copper_Ingot.png",
       "hidden": false,
       "id": 5
     },
     {
       "name": "Iron Plate",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Iron_Plate.png",
+      "icon": "icons/items/Iron_Plate.png",
       "hidden": false,
       "id": 6
     },
     {
       "name": "Iron Rod",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Iron_Rod.png",
+      "icon": "icons/items/Iron_Rod.png",
       "hidden": false,
       "id": 7
     },
     {
       "name": "Screw",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Screw.png",
+      "icon": "icons/items/Screw.png",
       "hidden": false,
       "id": 8
     },
     {
       "name": "Wire",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Wire.png",
+      "icon": "icons/items/Wire.png",
       "hidden": false,
       "id": 9
     },
     {
       "name": "Cable",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Cable.png",
+      "icon": "icons/items/Cable.png",
       "hidden": false,
       "id": 10
     },
     {
       "name": "Concrete",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Concrete.png",
+      "icon": "icons/items/Concrete.png",
       "hidden": false,
       "id": 11
     },
     {
       "name": "Reinforced Iron Plate",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Reinforced_Iron_Plate.png",
+      "icon": "icons/items/Reinforced_Iron_Plate.png",
       "hidden": false,
       "id": 12
     },
     {
       "name": "Modular Frame",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Modular_Frame.png",
+      "icon": "icons/items/Modular_Frame.png",
       "hidden": false,
       "id": 13
     },
     {
       "name": "Rotor",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Rotor.png",
+      "icon": "icons/items/Rotor.png",
       "hidden": false,
       "id": 14
     },
     {
       "name": "Caterium Ore",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Caterium_Ore.png",
+      "icon": "icons/items/Caterium_Ore.png",
       "hidden": false,
       "id": 15
     },
     {
       "name": "Caterium Ingot",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Caterium_Ingot.png",
+      "icon": "icons/items/Caterium_Ingot.png",
       "hidden": false,
       "id": 16
     },
     {
       "name": "Quickwire",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Quickwire.png",
+      "icon": "icons/items/Quickwire.png",
       "hidden": false,
       "id": 17
     },
     {
       "name": "Steel Ingot",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Steel_Ingot.png",
+      "icon": "icons/items/Steel_Ingot.png",
       "hidden": false,
       "id": 18
     },
     {
       "name": "Steel Beam",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Steel_Beam.png",
+      "icon": "icons/items/Steel_Beam.png",
       "hidden": false,
       "id": 19
     },
     {
       "name": "Steel Pipe",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Steel_Pipe.png",
+      "icon": "icons/items/Steel_Pipe.png",
       "hidden": false,
       "id": 20
     },
     {
       "name": "Encased Industrial Beam",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Encased_Industrial_Beam.png",
+      "icon": "icons/items/Encased_Industrial_Beam.png",
       "hidden": false,
       "id": 21
     },
     {
       "name": "Stator",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Stator.png",
+      "icon": "icons/items/Stator.png",
       "hidden": false,
       "id": 22
     },
     {
       "name": "Heavy Modular Frame",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Heavy_Modular_Frame.png",
+      "icon": "icons/items/Heavy_Modular_Frame.png",
       "hidden": false,
       "id": 23
     },
     {
       "name": "Motor",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Motor.png",
+      "icon": "icons/items/Motor.png",
       "hidden": false,
       "id": 24
     },
     {
       "name": "Crude Oil",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Crude_Oil.png",
+      "icon": "icons/items/Crude_Oil.png",
       "hidden": false,
       "id": 25
     },
     {
       "name": "Raw Quartz",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Raw_Quartz.png",
+      "icon": "icons/items/Raw_Quartz.png",
       "hidden": false,
       "id": 26
     },
     {
       "name": "Sulfur",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Sulfur.png",
+      "icon": "icons/items/Sulfur.png",
       "hidden": false,
       "id": 27
     },
     {
       "name": "Bauxite",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Bauxite.png",
+      "icon": "icons/items/Bauxite.png",
       "hidden": false,
       "id": 28
     },
     {
       "name": "S.A.M. Ore",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/SAM_Ore.png",
+      "icon": "icons/items/SAM_Ore.png",
       "hidden": false,
       "id": 29
     },
     {
       "name": "Silica",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Silica.png",
+      "icon": "icons/items/Silica.png",
       "hidden": false,
       "id": 30
     },
     {
       "name": "Uranium",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Uranium.png",
+      "icon": "icons/items/Uranium.png",
       "hidden": false,
       "id": 31
     },
     {
       "name": "Plastic",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Plastic.png",
+      "icon": "icons/items/Plastic.png",
       "hidden": false,
       "id": 32
     },
     {
       "name": "Fuel",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Fuel.png",
+      "icon": "icons/items/Fuel.png",
       "hidden": false,
       "id": 33
     },
     {
       "name": "Rubber",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Rubber.png",
+      "icon": "icons/items/Rubber.png",
       "hidden": false,
       "id": 34
     },
     {
       "name": "Circuit Board",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Circuit_Board.png",
+      "icon": "icons/items/Circuit_Board.png",
       "hidden": false,
       "id": 35
     },
     {
       "name": "Computer",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Computer.png",
+      "icon": "icons/items/Computer.png",
       "hidden": false,
       "id": 36
     },
     {
       "name": "A.I. Limiter",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/AI_Limiter.png",
+      "icon": "icons/items/AI_Limiter.png",
       "hidden": false,
       "id": 37
     },
     {
       "name": "Supercomputer",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Supercomputer.png",
+      "icon": "icons/items/Supercomputer.png",
       "hidden": false,
       "id": 38
     },
     {
       "name": "High-Speed Connector",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/High_Speed_Connector.png",
+      "icon": "icons/items/High_Speed_Connector.png",
       "hidden": false,
       "id": 39
     },
     {
       "name": "Nuclear Fuel Rod",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Nuclear_Fuel_Rod.png",
+      "icon": "icons/items/Nuclear_Fuel_Rod.png",
       "hidden": false,
       "id": 40
     },
     {
       "name": "Aluminum Ingot",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Iron_Ingot.png",
+      "icon": "icons/items/Iron_Ingot.png",
       "hidden": false,
       "id": 41
     },
     {
-      "name": "Aluminum Sheet",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Aluminum_Sheet.png",
+      "name": "NULL",
+      "icon": "icons/items/Generic.png",
       "hidden": false,
       "id": 42
     },
     {
       "name": "Heat Sink",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Heat_Sink.png",
+      "icon": "icons/items/Heat_Sink.png",
       "hidden": false,
       "id": 43
     },
     {
       "name": "Radio Control Unit",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Radio_Control_Unit.png",
+      "icon": "icons/items/Radio_Control_Unit.png",
       "hidden": false,
       "id": 44
     },
     {
       "name": "Turbo Motor",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Turbo_Motor.png",
+      "icon": "icons/items/Turbo_Motor.png",
       "hidden": false,
       "id": 45
     },
     {
       "name": "Battery",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Battery.png",
+      "icon": "icons/items/Battery.png",
       "hidden": false,
       "id": 46
     },
     {
       "name": "Quantum Crystal",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Generic.png",
+      "icon": "icons/items/Quantum_Crystal.png",
       "hidden": false,
       "id": 47
     },
     {
       "name": "Superposition Oscillator",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Generic.png",
+      "icon": "icons/items/Superposition_Oscillator.png",
       "hidden": false,
       "id": 48
     },
     {
       "name": "Quantum Computer",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Quantum_Computer.png",
+      "icon": "icons/items/Quantum_Computer.png",
       "hidden": false,
       "id": 49
     },
     {
       "name": "Biomass",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Biomass.png",
+      "icon": "icons/items/Biomass.png",
       "hidden": false,
       "id": 50
     },
     {
       "name": "Solid Biofuel",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Biofuel.png",
+      "icon": "icons/items/Biofuel.png",
       "hidden": false,
       "id": 51
     },
     {
       "name": "Reanimated SAM",
-      "icon": "https://satisfactory.wiki.gg/images/8/8a/Reanimated_SAM.png",
+      "icon": "icons/items/Reanimated_SAM.png",
       "hidden": false,
       "id": 52
     },
     {
       "name": "Compacted Coal",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Generic.png",
+      "icon": "icons/items/Compacted_Coal.png",
       "hidden": false,
       "id": 53
     },
     {
       "name": "Crystal Oscillator",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Generic.png",
+      "icon": "icons/items/Crystal_Oscillator.png",
       "hidden": false,
       "id": 54
     },
     {
       "name": "Quartz Crystal",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Generic.png",
+      "icon": "icons/items/Quartz_Crystal.png",
       "hidden": false,
       "id": 55
     },
     {
       "name": "Dark Matter",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Generic.png",
+      "icon": "icons/items/Dark_Matter.png",
       "hidden": false,
       "id": 56
     },
     {
       "name": "Aluminum Scrap",
-      "icon": "https://satisfactory.wiki.gg/images/4/4b/Aluminum_Scrap.png",
+      "icon": "icons/items/Aluminum_Scrap.png",
       "hidden": false,
       "id": 57
     },
     {
       "name": "Copper Sheet",
-      "icon": "https://satisfactory.wiki.gg/images/e/e1/Copper_Sheet.png",
+      "icon": "icons/items/Copper_Sheet.png",
       "hidden": false,
       "id": 58
     },
     {
       "name": "Petroleum Coke",
-      "icon": "https://satisfactory.wiki.gg/images/5/5c/Petroleum_Coke.png",
+      "icon": "icons/items/Petroleum_Coke.png",
       "hidden": false,
       "id": 59
     },
     {
       "name": "Sulfuric Acid",
-      "icon": "https://satisfactory.wiki.gg/images/8/8e/Sulfuric_Acid.png",
+      "icon": "icons/items/Sulfuric_Acid.png",
       "hidden": false,
       "id": 60
     },
     {
       "name": "Alumina Solution",
-      "icon": "https://satisfactory.wiki.gg/images/d/da/Alumina_Solution.png",
+      "icon": "icons/items/Alumina_Solution.png",
       "hidden": false,
       "id": 61
     },
     {
       "name": "Aluminum Casing",
-      "icon": "https://satisfactory.wiki.gg/images/4/40/Aluminum_Casing.png",
+      "icon": "icons/items/Aluminum_Casing.png",
       "hidden": false,
       "id": 62
     },
     {
       "name": "AI Limiter",
-      "icon": "https://satisfactory.wiki.gg/images/0/0d/AI_Limiter.png",
+      "icon": "icons/items/AI_Limiter.png",
       "hidden": false,
       "id": 63
     },
     {
       "name": "Alclad Aluminum Sheet",
-      "icon": "https://satisfactory.wiki.gg/images/4/4e/Alclad_Aluminum_Sheet.png",
+      "icon": "icons/items/Alclad_Aluminum_Sheet.png",
       "hidden": false,
       "id": 64
     },
     {
       "name": "Portable Miner",
-      "icon": "https://satisfactory.wiki.gg/images/b/b3/Portable_Miner.png",
+      "icon": "icons/items/Portable_Miner.png",
       "hidden": false,
       "id": 65
     },
     {
       "name": "Automated Wiring",
-      "icon": "https://satisfactory.wiki.gg/images/f/f3/Automated_Wiring.png",
+      "icon": "icons/items/Automated_Wiring.png",
       "hidden": false,
       "id": 66
     },
     {
       "name": "NULL",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Generic.png",
+      "icon": "icons/items/Generic.png",
       "hidden": false,
       "id": 67
     },
     {
       "name": "Black Powder",
-      "icon": "https://satisfactory.wiki.gg/images/3/3e/Black_Powder.png",
+      "icon": "icons/items/Black_Powder.png",
       "hidden": false,
       "id": 68
     },
     {
       "name": "Empty Canister",
-      "icon": "https://satisfactory.wiki.gg/images/c/cd/Empty_Canister.png",
+      "icon": "icons/items/Empty_Canister.png",
       "hidden": false,
       "id": 69
     },
     {
       "name": "Copper Powder",
-      "icon": "https://satisfactory.wiki.gg/images/f/fe/Copper_Powder.png",
+      "icon": "icons/items/Copper_Powder.png",
       "hidden": false,
       "id": 70
     },
     {
       "name": "Electromagnetic Control Rod",
-      "icon": "https://satisfactory.wiki.gg/images/a/a2/Electromagnetic_Control_Rod.png",
+      "icon": "icons/items/Electromagnetic_Control_Rod.png",
       "hidden": false,
       "id": 71
     },
     {
       "name": "Empty Fluid Tank",
-      "icon": "https://satisfactory.wiki.gg/images/b/bd/Empty_Fluid_Tank.png",
+      "icon": "icons/items/Empty_Fluid_Tank.png",
       "hidden": false,
       "id": 72
     },
     {
       "name": "Versatile Framework",
-      "icon": "https://satisfactory.wiki.gg/images/7/74/Versatile_Framework.png",
+      "icon": "icons/items/Versatile_Framework.png",
       "hidden": false,
       "id": 73
     },
     {
       "name": "Encased Uranium Cell",
-      "icon": "https://satisfactory.wiki.gg/images/1/15/Encased_Uranium_Cell.png",
+      "icon": "icons/items/Encased_Uranium_Cell.png",
       "hidden": false,
       "id": 74
     },
     {
       "name": "Iron Rebar",
-      "icon": "https://satisfactory.wiki.gg/images/e/e6/Iron_Rebar.png",
+      "icon": "icons/items/Iron_Rebar.png",
       "hidden": false,
       "id": 75
     },
     {
       "name": "Magnetic Field Generator",
-      "icon": "https://satisfactory.wiki.gg/images/4/47/Magnetic_Field_Generator.png",
+      "icon": "icons/items/Magnetic_Field_Generator.png",
       "hidden": false,
       "id": 76
     },
     {
       "name": "Nobelisk",
-      "icon": "https://satisfactory.wiki.gg/images/7/76/Nobelisk.png",
+      "icon": "icons/items/Nobelisk.png",
       "hidden": false,
       "id": 77
     },
     {
       "name": "Smart Plating",
-      "icon": "https://satisfactory.wiki.gg/images/d/d5/Smart_Plating.png",
+      "icon": "icons/items/Smart_Plating.png",
       "hidden": false,
       "id": 78
     },
     {
       "name": "Pulse Nobelisk",
-      "icon": "https://satisfactory.wiki.gg/images/5/52/Pulse_Nobelisk.png",
+      "icon": "icons/items/Pulse_Nobelisk.png",
       "hidden": false,
       "id": 79
     },
     {
       "name": "SAM Fluctuator",
-      "icon": "https://satisfactory.wiki.gg/images/2/23/SAM_Fluctuator.png",
+      "icon": "icons/items/SAM_Fluctuator.png",
       "hidden": false,
       "id": 80
     },
     {
       "name": "Shatter Rebar",
-      "icon": "https://satisfactory.wiki.gg/images/2/2b/Shatter_Rebar.png",
+      "icon": "icons/items/Shatter_Rebar.png",
       "hidden": false,
       "id": 81
     },
     {
       "name": "Stun Rebar",
-      "icon": "https://satisfactory.wiki.gg/images/0/04/Stun_Rebar.png",
+      "icon": "icons/items/Stun_Rebar.png",
       "hidden": false,
       "id": 82
     },
     {
       "name": "Turbofuel",
-      "icon": "https://satisfactory.wiki.gg/images/0/08/Turbofuel.png",
+      "icon": "icons/items/Turbofuel.png",
       "hidden": false,
       "id": 83
     },
     {
       "name": "Uranium Fuel Rod",
-      "icon": "https://satisfactory.wiki.gg/images/3/3d/Uranium_Fuel_Rod.png",
+      "icon": "icons/items/Uranium_Fuel_Rod.png",
       "hidden": false,
       "id": 84
     },
     {
       "name": "Adaptive Control Unit",
-      "icon": "https://satisfactory.wiki.gg/images/b/be/Adaptive_Control_Unit.png",
+      "icon": "icons/items/Adaptive_Control_Unit.png",
       "hidden": false,
       "id": 85
     },
     {
       "name": "Assembly Director System",
-      "icon": "https://satisfactory.wiki.gg/images/b/ba/Assembly_Director_System.png",
+      "icon": "icons/items/Assembly_Director_System.png",
       "hidden": false,
       "id": 86
     },
     {
       "name": "Gas Nobelisk",
-      "icon": "https://satisfactory.wiki.gg/images/3/32/Gas_Nobelisk.png",
+      "icon": "icons/items/Gas_Nobelisk.png",
       "hidden": false,
       "id": 87
     },
     {
       "name": "Modular Engine",
-      "icon": "https://satisfactory.wiki.gg/images/a/ac/Modular_Engine.png",
+      "icon": "icons/items/Modular_Engine.png",
       "hidden": false,
       "id": 88
     },
     {
       "name": "Alien Protein",
-      "icon": "https://satisfactory.wiki.gg/images/6/6f/Alien_Protein.png",
+      "icon": "icons/items/Alien_Protein.png",
       "hidden": false,
       "id": 89
     },
     {
       "name": "Water",
-      "icon": "https://satisfactory.wiki.gg/images/9/9d/Water.png",
+      "icon": "icons/items/Water.png",
       "hidden": false,
       "id": 90
     },
     {
       "name": "Nitrogen Gas",
-      "icon": "https://satisfactory.wiki.gg/images/2/27/Nitrogen_Gas.png",
+      "icon": "icons/items/Nitrogen_Gas.png",
       "hidden": false,
       "id": 91
     },
     {
       "name": "Alien DNA Capsule",
-      "icon": "",
+      "icon": "icons/items/Alien_DNA_Capsule.png",
       "hidden": false,
       "id": 92
     },
     {
       "name": "Cooling System",
-      "icon": "",
+      "icon": "icons/items/Cooling_System.png",
       "hidden": false,
       "id": 93
     },
     {
       "name": "Diamonds",
-      "icon": "",
+      "icon": "icons/items/Diamonds.png",
       "hidden": false,
       "id": 94
     },
     {
       "name": "Fused Modular Frame",
-      "icon": "",
+      "icon": "icons/items/Fused_Modular_Frame.png",
       "hidden": false,
       "id": 95
     },
     {
       "name": "Liquid Biofuel",
-      "icon": "",
+      "icon": "icons/items/Liquid_Biofuel.png",
       "hidden": false,
       "id": 96
     },
     {
       "name": "Nitric Acid",
-      "icon": "",
+      "icon": "icons/items/Nitric_Acid.png",
       "hidden": false,
       "id": 97
     },
     {
       "name": "Pressure Conversion Cube",
-      "icon": "",
+      "icon": "icons/items/Pressure_Conversion_Cube.png",
       "hidden": false,
       "id": 98
     },
     {
       "name": "Thermal Propulsion Rocket",
-      "icon": "",
+      "icon": "icons/items/Thermal_Propulsion_Rocket.png",
       "hidden": false,
       "id": 99
     },
     {
       "name": "Nuclear Pasta",
-      "icon": "",
+      "icon": "icons/items/Nuclear_Pasta.png",
       "hidden": false,
       "id": 100
     },
     {
       "name": "Dark Matter Residue",
-      "icon": "",
+      "icon": "icons/items/Dark_Matter_Residue.png",
       "hidden": false,
       "id": 101
     },
     {
       "name": "Ficsite Ingot",
-      "icon": "",
+      "icon": "icons/items/Ficsite_Ingot.png",
       "hidden": false,
       "id": 102
     },
     {
       "name": "Ficsite Trigon",
-      "icon": "",
+      "icon": "icons/items/Ficsite_Trigon.png",
       "hidden": false,
       "id": 103
     },
     {
-      "name": "Limestone",
-      "icon": "",
+      "name": "NULL",
+      "icon": "icons/items/Generic.png",
       "hidden": false,
       "id": 104
     },
     {
       "name": "Time Crystal",
-      "icon": "",
+      "icon": "icons/items/Time_Crystal.png",
       "hidden": false,
       "id": 105
     },
     {
       "name": "Biochemical Sculptor",
-      "icon": "",
+      "icon": "icons/items/Biochemical_Sculptor.png",
       "hidden": false,
       "id": 106
     },
     {
       "name": "Dark Matter Crystal",
-      "icon": "",
+      "icon": "icons/items/Dark_Matter_Crystal.png",
       "hidden": false,
       "id": 107
     },
     {
       "name": "Singularity Cell",
-      "icon": "",
+      "icon": "icons/items/Singularity_Cell.png",
       "hidden": false,
       "id": 108
     },
     {
       "name": "Ballistic Warp Drive",
-      "icon": "",
+      "icon": "icons/items/Ballistic_Warp_Drive.png",
       "hidden": false,
       "id": 109
     },
     {
       "name": "Excited Photonic Matter",
-      "icon": "",
+      "icon": "icons/items/Excited_Photonic_Matter.png",
       "hidden": false,
       "id": 110
     },
     {
       "name": "Blue Power Slug",
-      "icon": "",
+      "icon": "icons/items/65px-Blue_Power_Slug.png",
       "hidden": false,
       "id": 111
     },
     {
       "name": "Yellow Power Slug",
-      "icon": "",
+      "icon": "icons/items/65px-Yellow_Power_Slug.png",
       "hidden": false,
       "id": 112
     },
     {
       "name": "Purple Power Slug",
-      "icon": "",
+      "icon": "icons/items/65px-Purple_Power_Slug.png",
       "hidden": false,
       "id": 113
     },
     {
       "name": "Power Shard",
-      "icon": "",
+      "icon": "icons/items/Power_Shard.png",
       "hidden": false,
       "id": 114
     },
     {
       "name": "Leaves",
-      "icon": "",
+      "icon": "icons/items/Leaves.png",
       "hidden": false,
       "id": 115
     },
     {
       "name": "Mycelia",
-      "icon": "",
+      "icon": "icons/items/Mycelia.png",
       "hidden": false,
       "id": 116
     },
     {
       "name": "Wood",
-      "icon": "",
+      "icon": "icons/items/Wood.png",
       "hidden": false,
       "id": 117
     },
     {
       "name": "Fabric",
-      "icon": "",
+      "icon": "icons/items/Fabric.png",
       "hidden": false,
       "id": 118
     },
     {
       "name": "Gas Filter",
-      "icon": "",
+      "icon": "icons/items/Gas_Filter.png",
       "hidden": false,
       "id": 119
     },
     {
       "name": "Iodine-Infused Filter",
-      "icon": "",
+      "icon": "icons/items/Iodine-Infused_Filter.png",
       "hidden": false,
       "id": 120
     },
     {
       "name": "Hatcher Remains",
-      "icon": "",
+      "icon": "icons/items/Hatcher_Remains.png",
       "hidden": false,
       "id": 121
     },
     {
       "name": "Hog Remains",
-      "icon": "",
+      "icon": "icons/items/Hog_Remains.png",
       "hidden": false,
       "id": 122
     },
     {
       "name": "SAM",
-      "icon": "",
+      "icon": "icons/items/SAM.png",
       "hidden": false,
       "id": 123
     },
     {
       "name": "Spitter Remains",
-      "icon": "",
+      "icon": "icons/items/Spitter_Remains.png",
       "hidden": false,
       "id": 124
     },
     {
       "name": "Stinger Remains",
-      "icon": "",
+      "icon": "icons/items/Stinger_Remains.png",
       "hidden": false,
       "id": 125
     },
     {
       "name": "Packaged Alumina Solution",
-      "icon": "",
+      "icon": "icons/items/Packaged_Alumina_Solution.png",
       "hidden": false,
       "id": 126
     },
     {
       "name": "Packaged Fuel",
-      "icon": "",
+      "icon": "icons/items/Packaged_Fuel.png",
       "hidden": false,
       "id": 127
     },
     {
       "name": "Packaged Liquid Biofuel",
-      "icon": "",
+      "icon": "icons/items/Packaged_Liquid_Biofuel.png",
       "hidden": false,
       "id": 128
     },
     {
       "name": "Packaged Nitric Acid",
-      "icon": "",
+      "icon": "icons/items/Packaged_Nitric_Acid.png",
       "hidden": false,
       "id": 129
     },
     {
       "name": "Packaged Nitrogen Gas",
-      "icon": "",
+      "icon": "icons/items/Packaged_Nitrogen_Gas.png",
       "hidden": false,
       "id": 130
     },
     {
       "name": "Packaged Oil",
-      "icon": "",
+      "icon": "icons/items/Packaged_Oil.png",
       "hidden": false,
       "id": 131
     },
     {
       "name": "Packaged Sulfuric Acid",
-      "icon": "",
+      "icon": "icons/items/Packaged_Sulfuric_Acid.png",
       "hidden": false,
       "id": 132
     },
     {
       "name": "Packaged Turbofuel",
-      "icon": "",
+      "icon": "icons/items/Packaged_Turbofuel.png",
       "hidden": false,
       "id": 133
     },
     {
       "name": "Packaged Water",
-      "icon": "",
+      "icon": "icons/items/Packaged_Water.png",
       "hidden": false,
       "id": 134
     }
@@ -969,7 +969,7 @@
     {
       "name": "Constructor",
       "plural": "Constructors",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Constructor.png",
+      "icon": "icons/machines/Constructor.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 0
@@ -977,7 +977,7 @@
     {
       "name": "Miner",
       "plural": "Miners",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Miner_MK1.png",
+      "icon": "icons/machines/Miner_MK1.png",
       "node_type_id": 1,
       "hidden": false,
       "id": 1
@@ -985,7 +985,7 @@
     {
       "name": "Oil Pump",
       "plural": "Oil Pumps",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Oil_Pump.png",
+      "icon": "icons/machines/Oil_Pump.png",
       "node_type_id": 1,
       "hidden": false,
       "id": 2
@@ -993,7 +993,7 @@
     {
       "name": "Assembler",
       "plural": "Assemblers",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Assembler.png",
+      "icon": "icons/machines/Assembler.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 3
@@ -1001,7 +1001,7 @@
     {
       "name": "Refinery",
       "plural": "Refineries",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Oil_Refinery.png",
+      "icon": "icons/machines/Oil_Refinery.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 4
@@ -1009,7 +1009,7 @@
     {
       "name": "Smelter",
       "plural": "Smelters",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Smelter.png",
+      "icon": "icons/machines/Smelter.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 5
@@ -1017,7 +1017,7 @@
     {
       "name": "Generator",
       "plural": "Generators",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Coal_Generator.png",
+      "icon": "icons/machines/Coal_Generator.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 6
@@ -1025,7 +1025,7 @@
     {
       "name": "Manufacturer",
       "plural": "Manufacturer",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Manufacturer.png",
+      "icon": "icons/machines/Manufacturer.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 7
@@ -1033,7 +1033,7 @@
     {
       "name": "Container",
       "plural": "Containers",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Storage_Container_MK1.png",
+      "icon": "icons/machines/Storage_Container_MK1.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 8
@@ -1041,7 +1041,7 @@
     {
       "name": "Logistic",
       "plural": "Logistics",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Splitter.png",
+      "icon": "icons/machines/Splitter.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 9
@@ -1049,7 +1049,7 @@
     {
       "name": "Foundry",
       "plural": "Foundries",
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Foundry_MK1.png",
+      "icon": "icons/machines/Foundry_MK1.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 10
@@ -1057,15 +1057,15 @@
     {
       "name": "Blender",
       "plural": "Blenders",
-      "icon": "https://satisfactory.wiki.gg/images/3/39/Blender.png",
+      "icon": "icons/machines/Blender.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 11
     },
     {
-      "name": "Particle Accelerator",
-      "plural": "Particle Accelerators",
-      "icon": "https://satisfactory.wiki.gg/images/6/68/Particle_Accelerator.png",
+      "name": "Particle Accel",
+      "plural": "Particle Accels",
+      "icon": "icons/machines/Particle_Accelerator.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 12
@@ -1073,7 +1073,7 @@
     {
       "name": "Converter",
       "plural": "Converters",
-      "icon": "https://satisfactory.wiki.gg/images/3/35/Converter.png",
+      "icon": "icons/machines/Converter.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 13
@@ -1081,7 +1081,7 @@
     {
       "name": "Packager",
       "plural": "Packagers",
-      "icon": "https://satisfactory.wiki.gg/images/c/c1/Packager.png",
+      "icon": "icons/machines/Packager.png",
       "node_type_id": 0,
       "hidden": false,
       "id": 14
@@ -1277,7 +1277,7 @@
       "id": 19
     },
     {
-      "name": "Particle Accelerator",
+      "name": "Particle Accel",
       "machine_version_id": 1,
       "machine_class_id": 12,
       "icon": "https://satisfactory.wiki.gg/images/6/68/Particle_Accelerator.png",
@@ -5062,7 +5062,7 @@
         }
       ],
       "machine_class_id": 13,
-      "item_id": 104,
+      "item_id": 2,
       "time": 6,
       "quantity": 12.0,
       "hidden": false,
@@ -5167,7 +5167,7 @@
       "name": "Rubber Concrete",
       "inputs": [
         {
-          "item_id": 104,
+          "item_id": 2,
           "quantity": 10.0
         },
         {
@@ -5258,7 +5258,7 @@
       "name": "Wet Concrete",
       "inputs": [
         {
-          "item_id": 104,
+          "item_id": 2,
           "quantity": 6.0
         },
         {
@@ -5281,7 +5281,7 @@
           "quantity": 5.0
         },
         {
-          "item_id": 104,
+          "item_id": 2,
           "quantity": 8.0
         }
       ],
@@ -5323,7 +5323,7 @@
           "quantity": 12.0
         },
         {
-          "item_id": 104,
+          "item_id": 2,
           "quantity": 24.0
         }
       ],
@@ -5342,7 +5342,7 @@
           "quantity": 1.0
         },
         {
-          "item_id": 104,
+          "item_id": 2,
           "quantity": 36.0
         }
       ],
@@ -5414,7 +5414,7 @@
           "quantity": 3.0
         },
         {
-          "item_id": 104,
+          "item_id": 2,
           "quantity": 12.0
         }
       ],
@@ -5433,7 +5433,7 @@
           "quantity": 1.0
         },
         {
-          "item_id": 104,
+          "item_id": 2,
           "quantity": 24.0
         }
       ],
