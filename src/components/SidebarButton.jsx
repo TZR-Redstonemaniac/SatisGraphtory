@@ -88,7 +88,7 @@ class SidebarButton extends React.Component {
             return (
               <React.Fragment key={element.item.id}>
                 <img
-                  src={process.env.PUBLIC_URL + element.item.icon}
+                  src={element.item.icon}
                   className={
                     index === 0 ? classes.tooltipIconFirst : classes.tooltipIcon
                   }
@@ -121,7 +121,7 @@ class SidebarButton extends React.Component {
           >
             <img
               alt="probably some goat image"
-              src={process.env.PUBLIC_URL + link.item.icon}
+              src={link.item.icon}
               className={classes.itemListIcon}
             />
             {link.name}
