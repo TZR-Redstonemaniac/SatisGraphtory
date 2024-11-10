@@ -1089,7 +1089,7 @@
   ],
   "machine_node": [
     {
-      "name": "Container Mk.1",
+      "name": "Container",
       "machine_version_id": 1,
       "machine_class_id": 8,
       "speed": 999999,
@@ -1098,17 +1098,6 @@
       "output_slots": 1,
       "hidden": false,
       "id": 0
-    },
-    {
-      "name": "Container Mk.2",
-      "machine_version_id": 2,
-      "machine_class_id": 8,
-      "speed": 999999,
-      "icon": "https://raw.githubusercontent.com/rhocode/rhocode.github.io/master/img/satoolsfactory_icons/Storage_Container_MK2.png",
-      "input_slots": 1,
-      "output_slots": 1,
-      "hidden": false,
-      "id": 1
     },
     {
       "name": "Splitter",

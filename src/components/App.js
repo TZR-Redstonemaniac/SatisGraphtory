@@ -581,7 +581,7 @@ class App extends Component {
 
     // Manually handle splitters and mergers
     springByClass["Logistic"] = this.state.machine_node.machine_node.filter(
-        (elem) => elem.machine_class.name === "Logistic",
+        (elem) => elem.machine_class.name === "Logistic" || elem.machine_class.name === "Container",
     );
 
     return (
