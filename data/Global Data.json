@@ -1673,33 +1673,6 @@
       "id": 8
     },
     {
-      "item_id": 29,
-      "machine_class_id": 1,
-      "spring_type_id": 0,
-      "purities": [
-        {
-          "name": "Impure",
-          "quantity": 30,
-          "hidden": false,
-          "id": 0
-        },
-        {
-          "name": "Normal",
-          "quantity": 60,
-          "hidden": false,
-          "id": 1
-        },
-        {
-          "name": "Pure",
-          "quantity": 120,
-          "hidden": false,
-          "id": 2
-        }
-      ],
-      "hidden": false,
-      "id": 9
-    },
-    {
       "item_id": 30,
       "machine_class_id": 1,
       "spring_type_id": 0,
@@ -2363,7 +2336,7 @@
       "name": "Reanimated SAM",
       "inputs": [
         {
-          "item_id": 29,
+          "item_id": 123,
           "quantity": 2
         }
       ],
