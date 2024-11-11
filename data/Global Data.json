@@ -1243,8 +1243,8 @@
       "id": 14
     },
     {
-      "name": "Quantum Encoder",
-      "plural": "Quantum Encoders",
+      "name": "Quantum Encode",
+      "plural": "Quantum Encodes",
       "icon": "icons/machines/Quantum_Encoder.png",
       "node_type_id": 0,
       "hidden": false,
