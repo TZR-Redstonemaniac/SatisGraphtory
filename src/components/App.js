@@ -708,6 +708,9 @@ class App extends Component {
               <Typography variant="body1">
                 <li>No option yet to hide belt and factory numbers.</li>
               </Typography>
+              <Typography variant="body1">
+                <li>No option yet to handle byproducts.</li>
+              </Typography>
             </ul>
           </SidebarPopup>
         </List>
