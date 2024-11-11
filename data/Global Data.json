@@ -1024,7 +1024,7 @@
     },
     {
       "name": "Manufacturer",
-      "plural": "Manufacturer",
+      "plural": "Manufacturers",
       "icon": "icons/machines/Manufacturer.png",
       "node_type_id": 0,
       "hidden": false,
