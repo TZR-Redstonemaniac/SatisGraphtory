@@ -2533,10 +2533,10 @@
       "inputs": [
         {
           "item_id": 123,
-          "quantity": 2
+          "quantity": 4
         }
       ],
-      "machine_class_id": 5,
+      "machine_class_id": 0,
       "item_id": 52,
       "time": 2,
       "quantity": 1,
