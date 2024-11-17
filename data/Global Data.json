@@ -1360,7 +1360,7 @@
       "icon": "icons/machines/Oil_Refinery.png",
       "speed": 100,
       "power": 50,
-      "input_slots": 1,
+      "input_slots": 2,
       "output_slots": 1,
       "hidden": false,
       "id": 11
