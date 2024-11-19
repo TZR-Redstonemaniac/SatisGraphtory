@@ -17,6 +17,12 @@
       "quantity": 120,
       "hidden": false,
       "id": 2
+    },
+    {
+      "name": "General",
+      "quantity": 120,
+      "hidden": false,
+      "id": 3
     }
   ],
   "item": [
