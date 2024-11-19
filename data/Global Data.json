@@ -17,12 +17,6 @@
       "quantity": 120,
       "hidden": false,
       "id": 2
-    },
-    {
-      "name": "General",
-      "quantity": 120,
-      "hidden": false,
-      "id": 3
     }
   ],
   "item": [
@@ -1958,7 +1952,7 @@
       "id": 12
     },
     {
-      "item_id": 325,
+      "item_id": 90,
       "machine_class_id": 17,
       "spring_type_id": 0,
       "purities": [
