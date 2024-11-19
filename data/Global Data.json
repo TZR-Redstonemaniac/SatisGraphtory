@@ -7321,7 +7321,7 @@
     {
       "name": "Water",
       "inputs": [
-
+        {}
       ],
       "machine_class_id": 17,
       "item_id": 90,
