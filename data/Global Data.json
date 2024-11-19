@@ -1950,6 +1950,39 @@
       ],
       "hidden": false,
       "id": 12
+    },
+    {
+      "item_id": 325,
+      "machine_class_id": 17,
+      "spring_type_id": 0,
+      "purities": [
+        {
+          "name": "Impure",
+          "quantity": 30,
+          "hidden": false,
+          "id": 0
+        },
+        {
+          "name": "Normal",
+          "quantity": 60,
+          "hidden": false,
+          "id": 1
+        },
+        {
+          "name": "Pure",
+          "quantity": 120,
+          "hidden": false,
+          "id": 2
+        },
+        {
+          "name": "General",
+          "quantity": 120,
+          "hidden": false,
+          "id": 3
+        }
+      ],
+      "hidden": false,
+      "id": 13
     }
   ],
   "recipe": [
@@ -7317,18 +7350,6 @@
       "quantity": 27.0,
       "hidden": false,
       "id": 323
-    },
-    {
-      "name": "Water",
-      "inputs": [
-        {}
-      ],
-      "machine_class_id": 17,
-      "item_id": 90,
-      "time": 2,
-      "quantity": 10.0,
-      "hidden": false,
-      "id": 325
     }
   ]
 }
