@@ -243,12 +243,6 @@
       "id": 36
     },
     {
-      "name": "A.I. Limiter",
-      "icon": "icons/items/AI_Limiter.png",
-      "hidden": false,
-      "id": 37
-    },
-    {
       "name": "Supercomputer",
       "icon": "icons/items/Supercomputer.png",
       "hidden": false,
@@ -421,12 +415,6 @@
       "icon": "icons/items/Automated_Wiring.png",
       "hidden": false,
       "id": 66
-    },
-    {
-      "name": "NULL",
-      "icon": "icons/items/Generic.png",
-      "hidden": false,
-      "id": 67
     },
     {
       "name": "Black Powder",
@@ -643,12 +631,6 @@
       "icon": "icons/items/Ficsite_Trigon.png",
       "hidden": false,
       "id": 103
-    },
-    {
-      "name": "NULL",
-      "icon": "icons/items/Generic.png",
-      "hidden": false,
-      "id": 104
     },
     {
       "name": "Time Crystal",
@@ -1257,6 +1239,14 @@
       "node_type_id": 0,
       "hidden": false,
       "id": 16
+    },
+    {
+      "name": "Water Pump",
+      "plural": "Water Pump",
+      "icon": "icons/machines/Water_Extractor.png",
+      "node_type_id": 0,
+      "hidden": false,
+      "id": 17
     }
   ],
   "machine_node": [
@@ -1508,6 +1498,18 @@
       "input_slots": 2,
       "output_slots": 1,
       "id": 25
+    },
+    {
+      "name": "Water Extractor",
+      "machine_version_id": 1,
+      "machine_class_id": 17,
+      "icon": "icons/machines/Water_Extractor.png",
+      "speed": 100,
+      "power": 20,
+      "hidden": false,
+      "input_slots": 0,
+      "output_slots": 1,
+      "id": 26
     }
   ],
   "spring_type": [
@@ -2559,25 +2561,6 @@
       "id": 33
     },
     {
-      "name": "AI Limiter",
-      "inputs": [
-        {
-          "item_id": 58,
-          "quantity": 5
-        },
-        {
-          "item_id": 17,
-          "quantity": 20
-        }
-      ],
-      "machine_class_id": 3,
-      "item_id": 37,
-      "time": 12,
-      "quantity": 1,
-      "hidden": false,
-      "id": 34
-    },
-    {
       "name": "Circuit Board",
       "inputs": [
         {
@@ -2859,26 +2842,6 @@
       "quantity": 1,
       "hidden": false,
       "id": 48
-    },
-    {
-      "name": "Compacted Coal (Alt.)",
-      "inputs": [
-        {
-          "item_id": 3,
-          "quantity": 5
-        },
-        {
-          "item_id": 27,
-          "quantity": 5
-        }
-      ],
-      "machine_class_id": 3,
-      "item_id": 53,
-      "time": 12,
-      "quantity": 5,
-      "player_unlock_id": 17,
-      "hidden": false,
-      "id": 49
     },
     {
       "name": "Cheap Silica",
@@ -5667,7 +5630,7 @@
       "id": 192
     },
     {
-      "name": "Power Shard (1)",
+      "name": "Power Shard",
       "inputs": [
         {
           "item_id": 111,
@@ -5682,7 +5645,7 @@
       "id": 193
     },
     {
-      "name": "Power Shard (2)",
+      "name": "Power Shard",
       "inputs": [
         {
           "item_id": 112,
@@ -5697,7 +5660,7 @@
       "id": 194
     },
     {
-      "name": "Power Shard (5)",
+      "name": "Power Shard",
       "inputs": [
         {
           "item_id": 113,
@@ -6217,21 +6180,6 @@
       "id": 222
     },
     {
-      "name": "Fuel",
-      "inputs": [
-        {
-          "item_id": 25,
-          "quantity": 6.0
-        }
-      ],
-      "machine_class_id": 4,
-      "item_id": 73,
-      "time": 6,
-      "quantity": 2.0,
-      "hidden": false,
-      "id": 223
-    },
-    {
       "name": "Heavy Oil Residue",
       "inputs": [
         {
@@ -6354,21 +6302,6 @@
       "id": 229
     },
     {
-      "name": "Plastic",
-      "inputs": [
-        {
-          "item_id": 25,
-          "quantity": 3.0
-        }
-      ],
-      "machine_class_id": 4,
-      "item_id": 94,
-      "time": 6,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 230
-    },
-    {
       "name": "Polymer Resin",
       "inputs": [
         {
@@ -6473,21 +6406,6 @@
       "quantity": 10.0,
       "hidden": false,
       "id": 236
-    },
-    {
-      "name": "Rubber",
-      "inputs": [
-        {
-          "item_id": 25,
-          "quantity": 3.0
-        }
-      ],
-      "machine_class_id": 4,
-      "item_id": 14,
-      "time": 6,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 237
     },
     {
       "name": "Smokeless Powder",
@@ -6720,44 +6638,6 @@
       "id": 251
     },
     {
-      "name": "Alumina Solution",
-      "inputs": [
-        {
-          "item_id": 28,
-          "quantity": 12.0
-        },
-        {
-          "item_id": 90,
-          "quantity": 18.0
-        }
-      ],
-      "machine_class_id": 4,
-      "item_id": 141,
-      "time": 6,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 252
-    },
-    {
-      "name": "Aluminum Scrap",
-      "inputs": [
-        {
-          "item_id": 61,
-          "quantity": 4.0
-        },
-        {
-          "item_id": 3,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 4,
-      "item_id": 7,
-      "time": 1,
-      "quantity": 7.0,
-      "hidden": false,
-      "id": 253
-    },
-    {
       "name": "Cluster Nobelisk",
       "inputs": [
         {
@@ -6853,48 +6733,6 @@
       "id": 258
     },
     {
-      "name": "Electrode Aluminum Scrap",
-      "inputs": [
-        {
-          "item_id": 61,
-          "quantity": 12.0
-        },
-        {
-          "item_id": 59,
-          "quantity": 4.0
-        }
-      ],
-      "machine_class_id": 4,
-      "item_id": 24,
-      "time": 4,
-      "quantity": 2.0,
-      "hidden": false,
-      "id": 259
-    },
-    {
-      "name": "Encased Uranium Cell",
-      "inputs": [
-        {
-          "item_id": 31,
-          "quantity": 10.0
-        },
-        {
-          "item_id": 11,
-          "quantity": 3.0
-        },
-        {
-          "item_id": 60,
-          "quantity": 8.0
-        }
-      ],
-      "machine_class_id": 11,
-      "item_id": 21,
-      "time": 12,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 260
-    },
-    {
       "name": "Explosive Rebar",
       "inputs": [
         {
@@ -6918,48 +6756,6 @@
       "id": 261
     },
     {
-      "name": "Heavy Oil Residue",
-      "inputs": [
-        {
-          "item_id": 25,
-          "quantity": 3.0
-        }
-      ],
-      "machine_class_id": 4,
-      "item_id": 23,
-      "time": 6,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 262
-    },
-    {
-      "name": "Instant Scrap",
-      "inputs": [
-        {
-          "item_id": 28,
-          "quantity": 15.0
-        },
-        {
-          "item_id": 3,
-          "quantity": 10.0
-        },
-        {
-          "item_id": 60,
-          "quantity": 5.0
-        },
-        {
-          "item_id": 90,
-          "quantity": 6.0
-        }
-      ],
-      "machine_class_id": 11,
-      "item_id": 74,
-      "time": 6,
-      "quantity": 4.0,
-      "hidden": false,
-      "id": 263
-    },
-    {
       "name": "Ionized Fuel",
       "inputs": [
         {
@@ -6977,33 +6773,6 @@
       "quantity": 16.0,
       "hidden": false,
       "id": 264
-    },
-    {
-      "name": "Nitro Rocket Fuel",
-      "inputs": [
-        {
-          "item_id": 33,
-          "quantity": 4.0
-        },
-        {
-          "item_id": 91,
-          "quantity": 3.0
-        },
-        {
-          "item_id": 27,
-          "quantity": 4.0
-        },
-        {
-          "item_id": 3,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 11,
-      "item_id": 97,
-      "time": 2,
-      "quantity": 3.0,
-      "hidden": false,
-      "id": 265
     },
     {
       "name": "Nuke Nobelisk",
@@ -7071,21 +6840,6 @@
       "id": 268
     },
     {
-      "name": "Polymer Resin",
-      "inputs": [
-        {
-          "item_id": 25,
-          "quantity": 6.0
-        }
-      ],
-      "machine_class_id": 4,
-      "item_id": 118,
-      "time": 6,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 269
-    },
-    {
       "name": "Rifle Ammo",
       "inputs": [
         {
@@ -7103,25 +6857,6 @@
       "quantity": 15.0,
       "hidden": false,
       "id": 270
-    },
-    {
-      "name": "Rocket Fuel",
-      "inputs": [
-        {
-          "item_id": 83,
-          "quantity": 6.0
-        },
-        {
-          "item_id": 97,
-          "quantity": 1.0
-        }
-      ],
-      "machine_class_id": 11,
-      "item_id": 24,
-      "time": 6,
-      "quantity": 6.0,
-      "hidden": false,
-      "id": 271
     },
     {
       "name": "Turbo Rifle Ammo",
@@ -7147,51 +6882,6 @@
       "id": 272
     },
     {
-      "name": "Unpackage Alumina Solution",
-      "inputs": [
-        {
-          "item_id": 126,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 1,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 273
-    },
-    {
-      "name": "Unpackage Fuel",
-      "inputs": [
-        {
-          "item_id": 127,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 2,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 274
-    },
-    {
-      "name": "Unpackage Heavy Oil Residue",
-      "inputs": [
-        {
-          "item_id": 137,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 6,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 275
-    },
-    {
       "name": "Unpackage Ionized Fuel",
       "inputs": [
         {
@@ -7205,126 +6895,6 @@
       "quantity": 4.0,
       "hidden": false,
       "id": 276
-    },
-    {
-      "name": "Unpackage Liquid Biofuel",
-      "inputs": [
-        {
-          "item_id": 128,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 143,
-      "time": 2,
-      "quantity": 4.0,
-      "hidden": false,
-      "id": 277
-    },
-    {
-      "name": "Unpackage Nitric Acid",
-      "inputs": [
-        {
-          "item_id": 129,
-          "quantity": 1.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 143,
-      "time": 3,
-      "quantity": 4.0,
-      "hidden": false,
-      "id": 278
-    },
-    {
-      "name": "Unpackage Nitrogen Gas",
-      "inputs": [
-        {
-          "item_id": 130,
-          "quantity": 1.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 143,
-      "time": 1,
-      "quantity": 4.0,
-      "hidden": false,
-      "id": 279
-    },
-    {
-      "name": "Unpackage Oil",
-      "inputs": [
-        {
-          "item_id": 131,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 143,
-      "time": 2,
-      "quantity": 4.0,
-      "hidden": false,
-      "id": 280
-    },
-    {
-      "name": "Unpackage Rocket Fuel",
-      "inputs": [
-        {
-          "item_id": 138,
-          "quantity": 1.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 143,
-      "time": 1,
-      "quantity": 4.0,
-      "hidden": false,
-      "id": 281
-    },
-    {
-      "name": "Unpackage Sulfuric Acid",
-      "inputs": [
-        {
-          "item_id": 132,
-          "quantity": 1.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 143,
-      "time": 1,
-      "quantity": 4.0,
-      "hidden": false,
-      "id": 282
-    },
-    {
-      "name": "Unpackage Turbofuel",
-      "inputs": [
-        {
-          "item_id": 133,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 143,
-      "time": 6,
-      "quantity": 4.0,
-      "hidden": false,
-      "id": 283
-    },
-    {
-      "name": "Unpackage Water",
-      "inputs": [
-        {
-          "item_id": 134,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 143,
-      "time": 1,
-      "quantity": 4.0,
-      "hidden": false,
-      "id": 284
     },
     {
       "name": "Dark-Ion Fuel",
@@ -7363,145 +6933,6 @@
       "quantity": 10.0,
       "hidden": false,
       "id": 286
-    },
-    {
-      "name": "Ionized Fuel",
-      "inputs": [
-        {
-          "item_id": 136,
-          "quantity": 16.0
-        },
-        {
-          "item_id": 114,
-          "quantity": 1.0
-        }
-      ],
-      "machine_class_id": 4,
-      "item_id": 120,
-      "time": 24,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 287
-    },
-    {
-      "name": "Unpackage Ionized Fuel",
-      "inputs": [
-        {
-          "item_id": 146,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 3,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 288
-    },
-    {
-      "name": "Unpackage Liquid Biofuel",
-      "inputs": [
-        {
-          "item_id": 128,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 2,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 289
-    },
-    {
-      "name": "Unpackage Nitric Acid",
-      "inputs": [
-        {
-          "item_id": 129,
-          "quantity": 1.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 3,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 290
-    },
-    {
-      "name": "Unpackage Nitrogen Gas",
-      "inputs": [
-        {
-          "item_id": 130,
-          "quantity": 1.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 1,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 291
-    },
-    {
-      "name": "Unpackage Oil",
-      "inputs": [
-        {
-          "item_id": 131,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 2,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 292
-    },
-    {
-      "name": "Unpackage Rocket Fuel",
-      "inputs": [
-        {
-          "item_id": 138,
-          "quantity": 1.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 1,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 293
-    },
-    {
-      "name": "Unpackage Sulfuric Acid",
-      "inputs": [
-        {
-          "item_id": 132,
-          "quantity": 1.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 1,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 294
-    },
-    {
-      "name": "Unpackage Water",
-      "inputs": [
-        {
-          "item_id": 134,
-          "quantity": 2.0
-        }
-      ],
-      "machine_class_id": 14,
-      "item_id": 83,
-      "time": 1,
-      "quantity": 5.0,
-      "hidden": false,
-      "id": 295
     },
     {
       "name": "Alien Power Matrix",
@@ -7639,160 +7070,6 @@
       "id": 300
     },
     {
-      "name": "Alien Power Matrix",
-      "inputs": [
-        {
-          "item_id": 80,
-          "quantity": 5.0
-        },
-        {
-          "item_id": 114,
-          "quantity": 3.0
-        },
-        {
-          "item_id": 48,
-          "quantity": 3.0
-        },
-        {
-          "item_id": 110,
-          "quantity": 24.0
-        }
-      ],
-      "machine_class_id": 15,
-      "item_id": 92,
-      "time": 24,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 301
-    },
-    {
-      "name": "Alumina Solution",
-      "inputs": [
-        {
-          "item_id": 28,
-          "quantity": 12.0
-        },
-        {
-          "item_id": 90,
-          "quantity": 18.0
-        }
-      ],
-      "machine_class_id": 4,
-      "item_id": 92,
-      "time": 6,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 302
-    },
-    {
-      "name": "Neural-Quantum Processor",
-      "inputs": [
-        {
-          "item_id": 105,
-          "quantity": 5.0
-        },
-        {
-          "item_id": 38,
-          "quantity": 1.0
-        },
-        {
-          "item_id": 103,
-          "quantity": 15.0
-        },
-        {
-          "item_id": 110,
-          "quantity": 25.0
-        }
-      ],
-      "machine_class_id": 15,
-      "item_id": 24,
-      "time": 20,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 303
-    },
-    {
-      "name": "Superposition Oscillator",
-      "inputs": [
-        {
-          "item_id": 107,
-          "quantity": 6.0
-        },
-        {
-          "item_id": 54,
-          "quantity": 1.0
-        },
-        {
-          "item_id": 64,
-          "quantity": 9.0
-        },
-        {
-          "item_id": 110,
-          "quantity": 25.0
-        }
-      ],
-      "machine_class_id": 15,
-      "item_id": 38,
-      "time": 12,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 304
-    },
-    {
-      "name": "Synthetic Power Shard",
-      "inputs": [
-        {
-          "item_id": 105,
-          "quantity": 2.0
-        },
-        {
-          "item_id": 107,
-          "quantity": 2.0
-        },
-        {
-          "item_id": 55,
-          "quantity": 12.0
-        },
-        {
-          "item_id": 110,
-          "quantity": 12.0
-        }
-      ],
-      "machine_class_id": 15,
-      "item_id": 38,
-      "time": 12,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 305
-    },
-    {
-      "name": "AI Expansion Server",
-      "inputs": [
-        {
-          "item_id": 76,
-          "quantity": 1.0
-        },
-        {
-          "item_id": 150,
-          "quantity": 1.0
-        },
-        {
-          "item_id": 48,
-          "quantity": 1.0
-        },
-        {
-          "item_id": 110,
-          "quantity": 25.0
-        }
-      ],
-      "machine_class_id": 15,
-      "item_id": 12,
-      "time": 15,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 306
-    },
-    {
       "name": "Fertile Uranium",
       "inputs": [
         {
@@ -7818,52 +7095,6 @@
       "quantity": 20.0,
       "hidden": false,
       "id": 307
-    },
-    {
-      "name": "Instant Plutonium Cell",
-      "inputs": [
-        {
-          "item_id": 153,
-          "quantity": 150.0
-        },
-        {
-          "item_id": 62,
-          "quantity": 20.0
-        }
-      ],
-      "machine_class_id": 12,
-      "item_id": 154,
-      "time": 120,
-      "quantity": 20.0,
-      "hidden": false,
-      "id": 308
-    },
-    {
-      "name": "Instant Scrap",
-      "inputs": [
-        {
-          "item_id": 28,
-          "quantity": 15.0
-        },
-        {
-          "item_id": 3,
-          "quantity": 10.0
-        },
-        {
-          "item_id": 60,
-          "quantity": 5.0
-        },
-        {
-          "item_id": 90,
-          "quantity": 6.0
-        }
-      ],
-      "machine_class_id": 11,
-      "item_id": 154,
-      "time": 6,
-      "quantity": 20.0,
-      "hidden": false,
-      "id": 309
     },
     {
       "name": "Non-Fissile Uranium",
@@ -7977,83 +7208,6 @@
       "id": 314
     },
     {
-      "name": "Encased Uranium Cell",
-      "inputs": [
-        {
-          "item_id": 31,
-          "quantity": 10.0
-        },
-        {
-          "item_id": 11,
-          "quantity": 3.0
-        },
-        {
-          "item_id": 60,
-          "quantity": 8.0
-        }
-      ],
-      "machine_class_id": 11,
-      "item_id": 154,
-      "time": 12,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 315
-    },
-    {
-      "name": "Fertile Uranium",
-      "inputs": [
-        {
-          "item_id": 31,
-          "quantity": 5.0
-        },
-        {
-          "item_id": 152,
-          "quantity": 5.0
-        },
-        {
-          "item_id": 97,
-          "quantity": 3.0
-        },
-        {
-          "item_id": 60,
-          "quantity": 5.0
-        }
-      ],
-      "machine_class_id": 11,
-      "item_id": 118,
-      "time": 12,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 316
-    },
-    {
-      "name": "Non-Fissile Uranium",
-      "inputs": [
-        {
-          "item_id": 152,
-          "quantity": 15.0
-        },
-        {
-          "item_id": 30,
-          "quantity": 10.0
-        },
-        {
-          "item_id": 97,
-          "quantity": 6.0
-        },
-        {
-          "item_id": 60,
-          "quantity": 6.0
-        }
-      ],
-      "machine_class_id": 11,
-      "item_id": 77,
-      "time": 24,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 317
-    },
-    {
       "name": "Plutonium Fuel Rod (burning)",
       "inputs": [
         {
@@ -8142,33 +7296,6 @@
       "id": 321
     },
     {
-      "name": "Ficsonium Fuel Rod",
-      "inputs": [
-        {
-          "item_id": 158,
-          "quantity": 2.0
-        },
-        {
-          "item_id": 71,
-          "quantity": 2.0
-        },
-        {
-          "item_id": 103,
-          "quantity": 40.0
-        },
-        {
-          "item_id": 110,
-          "quantity": 20.0
-        }
-      ],
-      "machine_class_id": 15,
-      "item_id": 158,
-      "time": 24,
-      "quantity": 1.0,
-      "hidden": false,
-      "id": 322
-    },
-    {
       "name": "Distilled Silica",
       "inputs": [
         {
@@ -8192,27 +7319,16 @@
       "id": 323
     },
     {
-      "name": "Distilled Silica",
+      "name": "Water",
       "inputs": [
-        {
-          "item_id": 160,
-          "quantity": 12.0
-        },
-        {
-          "item_id": 2,
-          "quantity": 5.0
-        },
-        {
-          "item_id": 90,
-          "quantity": 10.0
-        }
+
       ],
-      "machine_class_id": 11,
-      "item_id": 127,
-      "time": 6,
-      "quantity": 2.0,
+      "machine_class_id": 17,
+      "item_id": 90,
+      "time": 2,
+      "quantity": 10.0,
       "hidden": false,
-      "id": 324
+      "id": 325
     }
   ]
 }
